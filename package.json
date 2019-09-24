@@ -34,6 +34,7 @@
     "eslint-config-react-app": "^5.0.2",
     "eslint-loader": "2.2.0",
     "eslint-plugin-react-hooks": "^2.0.1",
+    "gh-pages": "^2.1.1",
     "prettier": "^1.17.0"
   },
   "keywords": [
@@ -46,7 +47,8 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "repository": {
     "type": "git",
