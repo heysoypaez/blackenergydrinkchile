@@ -4,6 +4,7 @@ import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import StarRatingComponent from "react-star-rating-component"
+import { graphql } from "gatsby"
 
 class IndexPost extends React.Component {
   constructor(props) {

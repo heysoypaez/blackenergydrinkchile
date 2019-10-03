@@ -7,6 +7,7 @@ import Banner from "../components/banner"
 import LatestBlogs from "../components/latestBlog"
 import Countdown from "../components/countdown"
 import StarRatingComponent from "react-star-rating-component"
+import { graphql } from "gatsby"
 
 class IndexPost extends React.Component {
   render() {
@@ -72,14 +73,26 @@ class IndexPost extends React.Component {
 
 const IndexPage = data => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Inicio" keywords={[`gatsby`, `application`, `react`]} />
     <Banner BannerData={data.data.allContentfulHeaderBanner.edges} />
-    <LatestBlogs data={data.data.allContentfulBlogs} />
     <div className="container">
       <div className="text-center">
         <h2 className="with-underline">Últimos productos</h2>
       </div>
       <IndexPost data={data} />
+    </div>
+    <LatestBlogs data={data.data.allContentfulBlogs} />
+    <div className="container">
+      <div className="text-center">
+        <h2 className="with-underline">¿Quieres ser distribuidor en Chile?</h2>
+        <p>
+          This Started created for Ecommerce site with Gatsby + Contentful and
+          snipcart
+        </p>
+        <Link to="/contact-us" className="btn">
+          Contáctanos
+        </Link>
+      </div>
     </div>
     <Countdown data={data.data.contentfulDealCountDown} />
   </Layout>
