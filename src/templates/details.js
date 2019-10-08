@@ -3,6 +3,7 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs"
 import StarRatingComponent from "react-star-rating-component"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import { graphql } from "gatsby"
 
 const ProductDetails = data => (
   <Layout>
@@ -12,6 +13,9 @@ const ProductDetails = data => (
     />
     <div className="container details-page">
       <div className="product-details">
+        <div>
+          <h2>{data.data.contentfulProduct.name}</h2>
+        </div>
         <div className="Product-Screenshot">
           {data.data.contentfulProduct.productMorePhotos === null ? (
             <div className="no-image">No Image</div>
@@ -34,9 +38,6 @@ const ProductDetails = data => (
             </Tabs>
           )}
         </div>
-        <div>
-          <h2>{data.data.contentfulProduct.name}</h2>
-        </div>
         <StarRatingComponent
           name="rate1"
           starCount={5}
@@ -45,7 +46,7 @@ const ProductDetails = data => (
         <div className="row buynowinner">
           <div className="col-sm-2">
             <span className="price">
-              Price: ${data.data.contentfulProduct.price}
+              Precio: ${data.data.contentfulProduct.price}
             </span>
           </div>
           <div className="col-sm-10 text-left">
@@ -63,7 +64,7 @@ const ProductDetails = data => (
               data-item-url={`/`}
             >
               <i className="fas fa-tags" />
-              Buy Now
+              Encargar ahora
             </a>
           </div>
         </div>

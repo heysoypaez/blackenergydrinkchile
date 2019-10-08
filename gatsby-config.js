@@ -1,13 +1,13 @@
-var dotenv = require("dotenv");
-dotenv.config();
+var dotenv = require("dotenv")
+dotenv.config()
 
-const { spaceId, accessToken, snipcart } = process.env;
+const { spaceId, accessToken, snipcart } = process.env
 
 module.exports = {
   siteMetadata: {
-    title: `OneShopper`,
-    description: `E-Commerce site with Gatsby and React`,
-    author: `@rohitguptab`,
+    title: `Mercado Food - Alimentos Por Mayor`,
+    description: `Alimentos, frutas, verduras por mayor para tu negocio`,
+    author: `@heysoypaez`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -30,15 +30,15 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/oneshopper-logo.png`,
+        icon: `src/images/logotipo-mercado-food-comida-por-mayor.png`,
       },
     },
     {
       resolve: "gatsby-source-contentful",
       options: {
         spaceId,
-        accessToken
-      }
+        accessToken,
+      },
     },
     {
       resolve: "gatsby-plugin-snipcart",

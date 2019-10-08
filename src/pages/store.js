@@ -4,6 +4,7 @@ import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import StarRatingComponent from "react-star-rating-component"
+import { graphql } from "gatsby"
 
 class IndexPost extends React.Component {
   constructor(props) {
@@ -22,7 +23,7 @@ class IndexPost extends React.Component {
     window.removeEventListener("scroll", this.handleScroll)
   }
 
-  handleScroll = () => {
+  handleScroll() {
     var lastScrollY = window.pageYOffset + 1100
 
     if (lastScrollY > window.outerHeight) {
@@ -36,10 +37,11 @@ class IndexPost extends React.Component {
   render() {
     const { data } = this.props
     const { NoOfPost } = this.state
+    console.log("onScrollEvent: ", this.onScrollEvent)
 
     return (
       <React.Fragment>
-        <div className="row product-main" onScroll={this.onScrollEvent}>
+        <div className="row product-main" onScroll={this.handleScroll}>
           {data.data.allContentfulProduct.edges
             .slice(0, NoOfPost)
             .map(items => (
@@ -48,11 +50,13 @@ class IndexPost extends React.Component {
                 key={items.node.id}
               >
                 <div className="details_List">
-                  {items.node.image === null ? (
-                    <div className="no-image">No Image</div>
-                  ) : (
-                    <Img sizes={items.node.image.fixed} />
-                  )}
+                  <Link to={`/${items.node.slug}`}>
+                    {items.node.image === null ? (
+                      <div className="no-image">No Image</div>
+                    ) : (
+                      <Img sizes={items.node.image.fixed} />
+                    )}
+                  </Link>
 
                   <div className="details_inner">
                     <h2>
@@ -83,7 +87,7 @@ class IndexPost extends React.Component {
                           data-item-url={`/`}
                         >
                           <i className="fas fa-shopping-bag" />
-                          Add to Cart
+                          Agregar al carrito
                         </a>
                       </div>
                     </div>
