@@ -9,12 +9,12 @@ import logo from "../images/logotipo-mercado-food-comida-por-mayor.png"
 
 const Header = ({ siteTitle }) => (
   <header className="site-header">
-    <SEO />
+    <SEO title={siteTitle} />
     <div className="container">
       <div className="row">
         <div className="col-sm-12 col-md-4 align-self-center">
           <Link className="header-logo" to="/">
-            <img src={logo} />
+            <img src={logo} alt="logo" />
           </Link>
         </div>
         <div className="col-sm-12 col-md-8 align-self-center">
