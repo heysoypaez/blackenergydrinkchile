@@ -12,7 +12,7 @@
         "id": "blogs",
         "type": "ContentType",
         "createdAt": "2019-09-23T00:48:59.363Z",
-        "updatedAt": "2019-10-07T17:58:32.245Z",
+        "updatedAt": "2019-10-08T22:10:35.936Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20,8 +20,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 19,
-        "publishedAt": "2019-10-07T17:58:32.245Z",
+        "publishedVersion": 25,
+        "publishedAt": "2019-10-08T22:10:35.936Z",
         "firstPublishedAt": "2019-09-23T00:49:00.346Z",
         "createdBy": {
           "sys": {
@@ -37,8 +37,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 10,
-        "version": 20,
+        "publishedCounter": 13,
+        "version": 26,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -57,7 +57,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -67,7 +68,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -77,7 +79,8 @@
           "type": "Link",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false,
           "linkType": "Asset"
@@ -88,7 +91,8 @@
           "type": "Text",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -98,7 +102,8 @@
           "type": "Link",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false,
           "linkType": "Entry"
@@ -109,7 +114,8 @@
           "type": "Date",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         }
@@ -127,7 +133,7 @@
         "id": "headerBanner",
         "type": "ContentType",
         "createdAt": "2019-09-23T00:48:59.383Z",
-        "updatedAt": "2019-10-07T17:58:36.802Z",
+        "updatedAt": "2019-10-08T22:10:40.414Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -135,8 +141,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 19,
-        "publishedAt": "2019-10-07T17:58:36.802Z",
+        "publishedVersion": 25,
+        "publishedAt": "2019-10-08T22:10:40.414Z",
         "firstPublishedAt": "2019-09-23T00:49:02.942Z",
         "createdBy": {
           "sys": {
@@ -152,8 +158,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 10,
-        "version": 20,
+        "publishedCounter": 13,
+        "version": 26,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -172,7 +178,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -182,7 +189,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -192,7 +200,8 @@
           "type": "Link",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false,
           "linkType": "Asset"
@@ -203,7 +212,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         }
@@ -221,7 +231,7 @@
         "id": "dealCountDown",
         "type": "ContentType",
         "createdAt": "2019-09-23T00:48:59.447Z",
-        "updatedAt": "2019-10-07T17:58:35.739Z",
+        "updatedAt": "2019-10-08T22:10:39.398Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -229,8 +239,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 19,
-        "publishedAt": "2019-10-07T17:58:35.739Z",
+        "publishedVersion": 25,
+        "publishedAt": "2019-10-08T22:10:39.398Z",
         "firstPublishedAt": "2019-09-23T00:49:02.111Z",
         "createdBy": {
           "sys": {
@@ -246,8 +256,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 10,
-        "version": 20,
+        "publishedCounter": 13,
+        "version": 26,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -266,7 +276,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -276,7 +287,8 @@
           "type": "Link",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false,
           "linkType": "Asset"
@@ -287,7 +299,8 @@
           "type": "Date",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -297,7 +310,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         }
@@ -315,7 +329,7 @@
         "id": "product",
         "type": "ContentType",
         "createdAt": "2019-09-23T00:48:59.656Z",
-        "updatedAt": "2019-10-07T17:58:34.530Z",
+        "updatedAt": "2019-10-08T22:10:38.371Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -323,8 +337,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 19,
-        "publishedAt": "2019-10-07T17:58:34.530Z",
+        "publishedVersion": 25,
+        "publishedAt": "2019-10-08T22:10:38.371Z",
         "firstPublishedAt": "2019-09-23T00:49:01.307Z",
         "createdBy": {
           "sys": {
@@ -340,8 +354,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 10,
-        "version": 20,
+        "publishedCounter": 13,
+        "version": 26,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -360,7 +374,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -370,7 +385,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -380,7 +396,8 @@
           "type": "Text",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -390,7 +407,8 @@
           "type": "Link",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false,
           "linkType": "Asset"
@@ -401,12 +419,14 @@
           "type": "Array",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false,
           "items": {
             "type": "Link",
-            "validations": [],
+            "validations": [
+            ],
             "linkType": "Asset"
           }
         },
@@ -416,7 +436,8 @@
           "type": "Link",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false,
           "linkType": "Entry"
@@ -427,7 +448,8 @@
           "type": "Number",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -437,7 +459,8 @@
           "type": "Integer",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         }
@@ -455,7 +478,7 @@
         "id": "author",
         "type": "ContentType",
         "createdAt": "2019-09-23T00:48:59.660Z",
-        "updatedAt": "2019-10-07T17:58:33.261Z",
+        "updatedAt": "2019-10-08T22:10:37.248Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -463,8 +486,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 19,
-        "publishedAt": "2019-10-07T17:58:33.261Z",
+        "publishedVersion": 25,
+        "publishedAt": "2019-10-08T22:10:37.248Z",
         "firstPublishedAt": "2019-09-23T00:49:03.840Z",
         "createdBy": {
           "sys": {
@@ -480,8 +503,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 10,
-        "version": 20,
+        "publishedCounter": 13,
+        "version": 26,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -500,7 +523,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -510,7 +534,8 @@
           "type": "Link",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false,
           "linkType": "Asset"
@@ -521,7 +546,8 @@
           "type": "Symbol",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         },
@@ -531,7 +557,8 @@
           "type": "Text",
           "localized": false,
           "required": false,
-          "validations": [],
+          "validations": [
+          ],
           "disabled": false,
           "omitted": false
         }
@@ -550,7 +577,7 @@
             "linkType": "Space"
           }
         },
-        "version": 20,
+        "version": 26,
         "createdAt": "2019-09-23T00:49:00.521Z",
         "createdBy": {
           "sys": {
@@ -559,7 +586,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2019-10-07T17:58:38.598Z",
+        "updatedAt": "2019-10-08T22:10:42.329Z",
         "updatedBy": {
           "sys": {
             "id": "6gIufn5DZc7ZCG6oGMWdHK",
@@ -626,7 +653,7 @@
             "linkType": "Space"
           }
         },
-        "version": 20,
+        "version": 25,
         "createdAt": "2019-09-23T00:49:03.122Z",
         "createdBy": {
           "sys": {
@@ -635,7 +662,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2019-10-07T17:58:38.603Z",
+        "updatedAt": "2019-10-08T22:10:40.534Z",
         "updatedBy": {
           "sys": {
             "id": "6gIufn5DZc7ZCG6oGMWdHK",
@@ -692,7 +719,7 @@
             "linkType": "Space"
           }
         },
-        "version": 20,
+        "version": 26,
         "createdAt": "2019-09-23T00:49:02.265Z",
         "createdBy": {
           "sys": {
@@ -701,7 +728,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2019-10-07T17:58:38.662Z",
+        "updatedAt": "2019-10-08T22:10:42.345Z",
         "updatedBy": {
           "sys": {
             "id": "6gIufn5DZc7ZCG6oGMWdHK",
@@ -758,7 +785,7 @@
             "linkType": "Space"
           }
         },
-        "version": 20,
+        "version": 26,
         "createdAt": "2019-09-23T00:49:01.454Z",
         "createdBy": {
           "sys": {
@@ -767,7 +794,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2019-10-07T17:58:38.668Z",
+        "updatedAt": "2019-10-08T22:10:42.253Z",
         "updatedBy": {
           "sys": {
             "id": "6gIufn5DZc7ZCG6oGMWdHK",
@@ -844,7 +871,7 @@
             "linkType": "Space"
           }
         },
-        "version": 20,
+        "version": 26,
         "createdAt": "2019-09-23T00:49:03.976Z",
         "createdBy": {
           "sys": {
@@ -853,7 +880,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2019-10-07T17:58:38.724Z",
+        "updatedAt": "2019-10-08T22:10:42.349Z",
         "updatedBy": {
           "sys": {
             "id": "6gIufn5DZc7ZCG6oGMWdHK",
@@ -913,7 +940,7 @@
         "id": "4CI3vhBsVpWhMJVnUu3lmO",
         "type": "Entry",
         "createdAt": "2019-09-23T02:25:42.633Z",
-        "updatedAt": "2019-10-07T18:52:05.124Z",
+        "updatedAt": "2019-10-08T22:11:58.449Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -921,8 +948,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 93,
-        "publishedAt": "2019-10-07T18:52:05.124Z",
+        "publishedVersion": 99,
+        "publishedAt": "2019-10-08T22:11:58.449Z",
         "firstPublishedAt": "2019-09-23T02:30:32.214Z",
         "createdBy": {
           "sys": {
@@ -938,8 +965,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 10,
-        "version": 94,
+        "publishedCounter": 13,
+        "version": 100,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1014,7 +1041,7 @@
         "id": "2U7nhGdICaVUT1BjGIkkz1",
         "type": "Entry",
         "createdAt": "2019-09-23T02:31:56.432Z",
-        "updatedAt": "2019-10-07T17:59:39.640Z",
+        "updatedAt": "2019-10-10T02:41:32.672Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1022,8 +1049,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 14,
-        "publishedAt": "2019-10-07T17:59:39.640Z",
+        "publishedVersion": 51,
+        "publishedAt": "2019-10-10T02:41:32.672Z",
         "firstPublishedAt": "2019-09-23T02:32:40.719Z",
         "createdBy": {
           "sys": {
@@ -1039,8 +1066,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 7,
-        "version": 15,
+        "publishedCounter": 11,
+        "version": 52,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1058,10 +1085,10 @@
       },
       "fields": {
         "title": {
-          "es": "¿Has pensado ser distribuidor indepediente?"
+          "es": "Como hacer crecer tu local de comida: Tiempo, divino tesoro"
         },
         "slug": {
-          "es": "linkedin.com/company/energydrinkchile/ser-distribuidor"
+          "es": "como-hacer-crecer-mi-local-comida"
         },
         "featureImage": {
           "es": {
@@ -1073,7 +1100,7 @@
           }
         },
         "description": {
-          "es": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum"
+          "es": "Juventud, divino tesoro,\n¡ya te vas para no volver!\nCuando quiero llorar, no lloro...\ny a veces lloro sin querer..."
         },
         "author": {
           "es": {
@@ -1101,7 +1128,7 @@
         "id": "2rmu8nm7m0hhrGPoDgw4yf",
         "type": "Entry",
         "createdAt": "2019-09-23T02:32:07.195Z",
-        "updatedAt": "2019-10-07T18:50:48.373Z",
+        "updatedAt": "2019-10-08T22:12:00.783Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1109,8 +1136,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 38,
-        "publishedAt": "2019-10-07T18:50:48.373Z",
+        "publishedVersion": 44,
+        "publishedAt": "2019-10-08T22:12:00.783Z",
         "firstPublishedAt": "2019-09-23T02:32:40.688Z",
         "createdBy": {
           "sys": {
@@ -1126,8 +1153,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 8,
-        "version": 39,
+        "publishedCounter": 11,
+        "version": 45,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1202,7 +1229,7 @@
         "id": "5DYXjs19Q5y93yz76hc3z2",
         "type": "Entry",
         "createdAt": "2019-09-23T02:32:13.293Z",
-        "updatedAt": "2019-10-07T18:49:12.858Z",
+        "updatedAt": "2019-10-08T22:12:02.003Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1210,8 +1237,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 26,
-        "publishedAt": "2019-10-07T18:49:12.858Z",
+        "publishedVersion": 32,
+        "publishedAt": "2019-10-08T22:12:02.003Z",
         "firstPublishedAt": "2019-09-23T02:32:40.585Z",
         "createdBy": {
           "sys": {
@@ -1227,8 +1254,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 7,
-        "version": 27,
+        "publishedCounter": 10,
+        "version": 33,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1303,7 +1330,7 @@
         "id": "2I5NjNitP5Gen04BeNTts8",
         "type": "Entry",
         "createdAt": "2019-09-23T02:44:04.072Z",
-        "updatedAt": "2019-10-07T17:59:37.597Z",
+        "updatedAt": "2019-10-08T22:11:57.416Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1311,8 +1338,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 31,
-        "publishedAt": "2019-10-07T17:59:37.597Z",
+        "publishedVersion": 37,
+        "publishedAt": "2019-10-08T22:11:57.416Z",
         "firstPublishedAt": "2019-09-23T02:44:52.492Z",
         "createdBy": {
           "sys": {
@@ -1328,8 +1355,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 32,
+        "publishedCounter": 8,
+        "version": 38,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1378,7 +1405,7 @@
         "id": "6Tu7PyGM3W8IpVNUYp6KFg",
         "type": "Entry",
         "createdAt": "2019-09-23T02:45:54.004Z",
-        "updatedAt": "2019-10-07T18:00:09.573Z",
+        "updatedAt": "2019-10-10T02:37:30.710Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1386,8 +1413,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2019-10-07T18:00:09.573Z",
+        "publishedVersion": 29,
+        "publishedAt": "2019-10-10T02:37:30.710Z",
         "firstPublishedAt": "2019-09-23T02:46:12.792Z",
         "createdBy": {
           "sys": {
@@ -1403,8 +1430,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 10,
+        "publishedCounter": 9,
+        "version": 30,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1422,17 +1449,17 @@
       },
       "fields": {
         "title": {
-          "es": "¿Has pensado ser distribuidor indepediente?"
+          "es": "La cultura Mercado Food"
         },
         "slug": {
-          "es": "linkedin.com/company/energydrinkchile/ser-distribuidor"
+          "es": "cultura-mercado-food"
         },
         "featureImage": {
           "es": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "6UyjNnSOVxZLHG4sQz05om"
+              "id": "16gslQyf1FyIDu8D1CtlXg"
             }
           }
         },
@@ -1465,7 +1492,7 @@
         "id": "58BWCqV0MAEKZnpzOG4Ot8",
         "type": "Entry",
         "createdAt": "2019-09-23T02:45:57.897Z",
-        "updatedAt": "2019-10-07T18:00:08.616Z",
+        "updatedAt": "2019-10-10T02:39:32.048Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1473,8 +1500,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2019-10-07T18:00:08.616Z",
+        "publishedVersion": 51,
+        "publishedAt": "2019-10-10T02:39:32.048Z",
         "firstPublishedAt": "2019-09-23T02:46:12.793Z",
         "createdBy": {
           "sys": {
@@ -1490,8 +1517,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 10,
+        "publishedCounter": 9,
+        "version": 52,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1509,17 +1536,17 @@
       },
       "fields": {
         "title": {
-          "es": "¿Has pensado ser distribuidor indepediente?"
+          "es": "Hay cielo más allá de La Vega en Santiago de Chile."
         },
         "slug": {
-          "es": "linkedin.com/company/energydrinkchile/ser-distribuidor"
+          "es": "hay-cielo-mas-alla-de-la-vega-santiago-chile"
         },
         "featureImage": {
           "es": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "6UyjNnSOVxZLHG4sQz05om"
+              "id": "4XjciNJCs1v5n5psnNfPnJ"
             }
           }
         },
@@ -1552,7 +1579,7 @@
         "id": "2AhDcu461od9yiIOkrN8C2",
         "type": "Entry",
         "createdAt": "2019-09-23T18:42:05.972Z",
-        "updatedAt": "2019-10-07T18:00:06.172Z",
+        "updatedAt": "2019-10-08T22:12:27.736Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1560,8 +1587,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 70,
-        "publishedAt": "2019-10-07T18:00:06.172Z",
+        "publishedVersion": 130,
+        "publishedAt": "2019-10-08T22:12:27.736Z",
         "firstPublishedAt": "2019-09-23T18:44:11.466Z",
         "createdBy": {
           "sys": {
@@ -1577,8 +1604,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 71,
+        "publishedCounter": 9,
+        "version": 131,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1596,22 +1623,22 @@
       },
       "fields": {
         "title": {
-          "es": "Black Energy Drink Chile"
+          "es": "Mercado Food - Minimarket para emprendedores"
         },
         "subHeading": {
-          "es": "Sé tu propio jefe entregando energía a las personas"
+          "es": "Haz crecer tu negocio de alimentos"
         },
         "image": {
           "es": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "1INPzqpiDCfOiuFU1YnH91"
+              "id": "15iwQzreDi18I1qj5L27bs"
             }
           }
         },
         "buttonLink": {
-          "es": "http://www.blackenergydrink.com/"
+          "es": "https://mercadofood.netlify.com/tienda"
         }
       }
     },
@@ -1627,7 +1654,7 @@
         "id": "7txWx4CZEQOWf0WhjeJt8v",
         "type": "Entry",
         "createdAt": "2019-09-23T18:44:40.658Z",
-        "updatedAt": "2019-10-07T18:00:05.231Z",
+        "updatedAt": "2019-10-08T22:12:26.718Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1635,8 +1662,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 36,
-        "publishedAt": "2019-10-07T18:00:05.231Z",
+        "publishedVersion": 75,
+        "publishedAt": "2019-10-08T22:12:26.718Z",
         "firstPublishedAt": "2019-09-23T18:46:05.928Z",
         "createdBy": {
           "sys": {
@@ -1652,8 +1679,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 37,
+        "publishedCounter": 9,
+        "version": 76,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1671,14 +1698,14 @@
       },
       "fields": {
         "title": {
-          "es": "Sé de los primeros 100 distribuidores en Chile"
+          "es": "¡ Sé de los primeros 100 clientes online !"
         },
         "featureImage": {
           "es": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "7xFU73TGTYcaR47zarT6A6"
+              "id": "6LLby9AAB0A3pcphlcDvCb"
             }
           }
         },
@@ -1686,7 +1713,7 @@
           "es": "2019-12-31T00:00-03:00"
         },
         "buttonLink": {
-          "es": "http://www.blackenergydrink.com/"
+          "es": "http://mercadofood.com/tienda"
         }
       }
     },
@@ -1702,7 +1729,7 @@
         "id": "1NRq4ZGpgy4b0rt3xCUR07",
         "type": "Entry",
         "createdAt": "2019-10-04T16:30:41.360Z",
-        "updatedAt": "2019-10-07T18:00:04.204Z",
+        "updatedAt": "2019-10-08T22:12:25.519Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1710,8 +1737,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 73,
-        "publishedAt": "2019-10-07T18:00:04.204Z",
+        "publishedVersion": 79,
+        "publishedAt": "2019-10-08T22:12:25.519Z",
         "firstPublishedAt": "2019-10-04T16:32:31.100Z",
         "createdBy": {
           "sys": {
@@ -1727,8 +1754,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 6,
-        "version": 74,
+        "publishedCounter": 9,
+        "version": 80,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1803,7 +1830,7 @@
         "id": "5qc6i1Ro2AKGpflEgDGDej",
         "type": "Entry",
         "createdAt": "2019-10-04T16:30:41.365Z",
-        "updatedAt": "2019-10-07T18:00:03.172Z",
+        "updatedAt": "2019-10-08T22:12:24.442Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1811,8 +1838,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 30,
-        "publishedAt": "2019-10-07T18:00:03.172Z",
+        "publishedVersion": 36,
+        "publishedAt": "2019-10-08T22:12:24.442Z",
         "firstPublishedAt": "2019-10-04T16:32:31.099Z",
         "createdBy": {
           "sys": {
@@ -1828,8 +1855,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 7,
-        "version": 31,
+        "publishedCounter": 10,
+        "version": 37,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1904,7 +1931,7 @@
         "id": "mxyXCqNrRJRMgnbgwoG2h",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:01.471Z",
-        "updatedAt": "2019-10-07T18:00:01.988Z",
+        "updatedAt": "2019-10-08T22:12:23.227Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1912,8 +1939,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 32,
-        "publishedAt": "2019-10-07T18:00:01.988Z",
+        "publishedVersion": 38,
+        "publishedAt": "2019-10-08T22:12:23.227Z",
         "firstPublishedAt": "2019-10-04T16:32:30.676Z",
         "createdBy": {
           "sys": {
@@ -1929,8 +1956,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 7,
-        "version": 33,
+        "publishedCounter": 10,
+        "version": 39,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2005,7 +2032,7 @@
         "id": "37yl68qKvvCkVkwOhJhFoa",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:01.480Z",
-        "updatedAt": "2019-10-07T18:00:00.715Z",
+        "updatedAt": "2019-10-08T22:12:21.886Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2013,8 +2040,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 33,
-        "publishedAt": "2019-10-07T18:00:00.715Z",
+        "publishedVersion": 39,
+        "publishedAt": "2019-10-08T22:12:21.886Z",
         "firstPublishedAt": "2019-10-04T16:32:30.549Z",
         "createdBy": {
           "sys": {
@@ -2030,8 +2057,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 6,
-        "version": 34,
+        "publishedCounter": 9,
+        "version": 40,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2106,7 +2133,7 @@
         "id": "4oPYg9LC8HgKITpxSTMRk3",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:01.497Z",
-        "updatedAt": "2019-10-07T17:59:59.683Z",
+        "updatedAt": "2019-10-08T22:12:20.972Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2114,8 +2141,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 31,
-        "publishedAt": "2019-10-07T17:59:59.683Z",
+        "publishedVersion": 37,
+        "publishedAt": "2019-10-08T22:12:20.972Z",
         "firstPublishedAt": "2019-10-04T16:32:30.450Z",
         "createdBy": {
           "sys": {
@@ -2131,8 +2158,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 7,
-        "version": 32,
+        "publishedCounter": 10,
+        "version": 38,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2207,7 +2234,7 @@
         "id": "3r5e2LrgRkOWyVAES56r3d",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:02.232Z",
-        "updatedAt": "2019-10-07T17:59:58.473Z",
+        "updatedAt": "2019-10-08T22:12:19.959Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2215,8 +2242,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 31,
-        "publishedAt": "2019-10-07T17:59:58.473Z",
+        "publishedVersion": 37,
+        "publishedAt": "2019-10-08T22:12:19.959Z",
         "firstPublishedAt": "2019-10-04T16:32:30.470Z",
         "createdBy": {
           "sys": {
@@ -2232,8 +2259,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 6,
-        "version": 32,
+        "publishedCounter": 9,
+        "version": 38,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2308,7 +2335,7 @@
         "id": "5mXlL2r099OoXHa4AEN4sI",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:02.251Z",
-        "updatedAt": "2019-10-07T17:59:57.441Z",
+        "updatedAt": "2019-10-08T22:12:18.916Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2316,8 +2343,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 26,
-        "publishedAt": "2019-10-07T17:59:57.441Z",
+        "publishedVersion": 32,
+        "publishedAt": "2019-10-08T22:12:18.916Z",
         "firstPublishedAt": "2019-10-04T16:32:30.356Z",
         "createdBy": {
           "sys": {
@@ -2333,8 +2360,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 6,
-        "version": 27,
+        "publishedCounter": 9,
+        "version": 33,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2409,7 +2436,7 @@
         "id": "7yzIwpWN8Bh8BOW9s4eJqY",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:02.904Z",
-        "updatedAt": "2019-10-07T17:59:56.397Z",
+        "updatedAt": "2019-10-08T22:12:17.757Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2417,8 +2444,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 19,
-        "publishedAt": "2019-10-07T17:59:56.397Z",
+        "publishedVersion": 25,
+        "publishedAt": "2019-10-08T22:12:17.757Z",
         "firstPublishedAt": "2019-10-04T16:32:31.064Z",
         "createdBy": {
           "sys": {
@@ -2434,8 +2461,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 20,
+        "publishedCounter": 8,
+        "version": 26,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2510,7 +2537,7 @@
         "id": "5YaFxBS8gYgz75wRpQmPE2",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:03.004Z",
-        "updatedAt": "2019-10-07T17:59:55.394Z",
+        "updatedAt": "2019-10-08T22:12:16.415Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2518,8 +2545,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 22,
-        "publishedAt": "2019-10-07T17:59:55.394Z",
+        "publishedVersion": 28,
+        "publishedAt": "2019-10-08T22:12:16.415Z",
         "firstPublishedAt": "2019-10-04T16:32:30.347Z",
         "createdBy": {
           "sys": {
@@ -2535,8 +2562,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 6,
-        "version": 23,
+        "publishedCounter": 9,
+        "version": 29,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2611,7 +2638,7 @@
         "id": "1lMHu3vJvoqGP3QUXrZevm",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:03.278Z",
-        "updatedAt": "2019-10-07T17:59:54.397Z",
+        "updatedAt": "2019-10-08T22:12:14.939Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2619,8 +2646,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 25,
-        "publishedAt": "2019-10-07T17:59:54.397Z",
+        "publishedVersion": 31,
+        "publishedAt": "2019-10-08T22:12:14.939Z",
         "firstPublishedAt": "2019-10-04T16:32:30.279Z",
         "createdBy": {
           "sys": {
@@ -2636,8 +2663,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 6,
-        "version": 26,
+        "publishedCounter": 9,
+        "version": 32,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2712,7 +2739,7 @@
         "id": "rU8WsP6aVbgHlnzeOU9iP",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:03.340Z",
-        "updatedAt": "2019-10-07T17:59:53.346Z",
+        "updatedAt": "2019-10-08T22:12:13.808Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2720,8 +2747,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 23,
-        "publishedAt": "2019-10-07T17:59:53.346Z",
+        "publishedVersion": 29,
+        "publishedAt": "2019-10-08T22:12:13.808Z",
         "firstPublishedAt": "2019-10-04T16:32:30.172Z",
         "createdBy": {
           "sys": {
@@ -2737,8 +2764,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 6,
-        "version": 24,
+        "publishedCounter": 9,
+        "version": 30,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2813,7 +2840,7 @@
         "id": "Xq990LLbXtu9oTAZu3vOO",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:03.396Z",
-        "updatedAt": "2019-10-07T17:59:52.308Z",
+        "updatedAt": "2019-10-08T22:12:12.801Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2821,8 +2848,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 20,
-        "publishedAt": "2019-10-07T17:59:52.308Z",
+        "publishedVersion": 26,
+        "publishedAt": "2019-10-08T22:12:12.801Z",
         "firstPublishedAt": "2019-10-04T16:32:30.051Z",
         "createdBy": {
           "sys": {
@@ -2838,8 +2865,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 21,
+        "publishedCounter": 8,
+        "version": 27,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2914,7 +2941,7 @@
         "id": "5JxD0gZ8D8TXTnftL9o77R",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:03.460Z",
-        "updatedAt": "2019-10-07T18:34:12.120Z",
+        "updatedAt": "2019-10-08T22:12:11.760Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2922,8 +2949,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 21,
-        "publishedAt": "2019-10-07T18:34:12.120Z",
+        "publishedVersion": 27,
+        "publishedAt": "2019-10-08T22:12:11.760Z",
         "firstPublishedAt": "2019-10-04T16:32:30.057Z",
         "createdBy": {
           "sys": {
@@ -2939,8 +2966,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 22,
+        "publishedCounter": 8,
+        "version": 28,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3015,7 +3042,7 @@
         "id": "6BdNNkPIFOfjYrm6Gb0sHW",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:03.684Z",
-        "updatedAt": "2019-10-07T18:36:05.475Z",
+        "updatedAt": "2019-10-08T22:12:10.646Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3023,8 +3050,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 24,
-        "publishedAt": "2019-10-07T18:36:05.475Z",
+        "publishedVersion": 30,
+        "publishedAt": "2019-10-08T22:12:10.646Z",
         "firstPublishedAt": "2019-10-04T16:32:29.961Z",
         "createdBy": {
           "sys": {
@@ -3040,8 +3067,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 25,
+        "publishedCounter": 8,
+        "version": 31,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3116,7 +3143,7 @@
         "id": "3HCLfVDr5WxP1vy5BYiDCc",
         "type": "Entry",
         "createdAt": "2019-10-04T16:32:03.765Z",
-        "updatedAt": "2019-10-07T18:37:42.445Z",
+        "updatedAt": "2019-10-08T22:12:09.720Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3124,8 +3151,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 25,
-        "publishedAt": "2019-10-07T18:37:42.445Z",
+        "publishedVersion": 31,
+        "publishedAt": "2019-10-08T22:12:09.720Z",
         "firstPublishedAt": "2019-10-04T16:32:29.964Z",
         "createdBy": {
           "sys": {
@@ -3141,8 +3168,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 26,
+        "publishedCounter": 8,
+        "version": 32,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3217,7 +3244,7 @@
         "id": "2eMVVG8ZC2oPaIRRwhTUiG",
         "type": "Entry",
         "createdAt": "2019-10-04T16:34:18.377Z",
-        "updatedAt": "2019-10-07T18:39:17.080Z",
+        "updatedAt": "2019-10-08T22:12:08.681Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3225,8 +3252,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 22,
-        "publishedAt": "2019-10-07T18:39:17.080Z",
+        "publishedVersion": 28,
+        "publishedAt": "2019-10-08T22:12:08.681Z",
         "firstPublishedAt": "2019-10-05T14:41:31.275Z",
         "createdBy": {
           "sys": {
@@ -3242,8 +3269,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 23,
+        "publishedCounter": 8,
+        "version": 29,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3318,7 +3345,7 @@
         "id": "6XIJknuxvQYTw4eqksxHCh",
         "type": "Entry",
         "createdAt": "2019-10-04T16:34:18.429Z",
-        "updatedAt": "2019-10-07T18:40:56.395Z",
+        "updatedAt": "2019-10-08T22:12:07.492Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3326,8 +3353,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 22,
-        "publishedAt": "2019-10-07T18:40:56.395Z",
+        "publishedVersion": 28,
+        "publishedAt": "2019-10-08T22:12:07.492Z",
         "firstPublishedAt": "2019-10-05T14:41:31.251Z",
         "createdBy": {
           "sys": {
@@ -3343,8 +3370,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 23,
+        "publishedCounter": 8,
+        "version": 29,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3419,7 +3446,7 @@
         "id": "3x4gRwVj4TX1lbEzcBnkYm",
         "type": "Entry",
         "createdAt": "2019-10-04T16:34:18.446Z",
-        "updatedAt": "2019-10-07T18:43:07.684Z",
+        "updatedAt": "2019-10-08T22:12:06.433Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3427,8 +3454,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 25,
-        "publishedAt": "2019-10-07T18:43:07.684Z",
+        "publishedVersion": 31,
+        "publishedAt": "2019-10-08T22:12:06.433Z",
         "firstPublishedAt": "2019-10-05T14:41:31.265Z",
         "createdBy": {
           "sys": {
@@ -3444,8 +3471,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 26,
+        "publishedCounter": 8,
+        "version": 32,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3520,7 +3547,7 @@
         "id": "2TXV4k2WSwVEx15Cf8akKJ",
         "type": "Entry",
         "createdAt": "2019-10-04T16:34:18.456Z",
-        "updatedAt": "2019-10-07T18:44:36.511Z",
+        "updatedAt": "2019-10-08T22:12:05.318Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3528,8 +3555,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 22,
-        "publishedAt": "2019-10-07T18:44:36.511Z",
+        "publishedVersion": 28,
+        "publishedAt": "2019-10-08T22:12:05.318Z",
         "firstPublishedAt": "2019-10-05T14:41:31.254Z",
         "createdBy": {
           "sys": {
@@ -3545,8 +3572,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 23,
+        "publishedCounter": 8,
+        "version": 29,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3621,7 +3648,7 @@
         "id": "4fZOo3X3wMP9CK58k06UpL",
         "type": "Entry",
         "createdAt": "2019-10-05T14:41:13.441Z",
-        "updatedAt": "2019-10-07T18:46:08.327Z",
+        "updatedAt": "2019-10-08T22:12:04.393Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3629,8 +3656,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 25,
-        "publishedAt": "2019-10-07T18:46:08.327Z",
+        "publishedVersion": 31,
+        "publishedAt": "2019-10-08T22:12:04.393Z",
         "firstPublishedAt": "2019-10-05T14:41:31.257Z",
         "createdBy": {
           "sys": {
@@ -3646,8 +3673,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 26,
+        "publishedCounter": 8,
+        "version": 32,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3722,7 +3749,7 @@
         "id": "4eFpkwip0rI390ujnvPWrU",
         "type": "Entry",
         "createdAt": "2019-10-05T14:41:13.444Z",
-        "updatedAt": "2019-10-07T18:47:46.001Z",
+        "updatedAt": "2019-10-08T22:12:03.263Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3730,8 +3757,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 22,
-        "publishedAt": "2019-10-07T18:47:46.001Z",
+        "publishedVersion": 28,
+        "publishedAt": "2019-10-08T22:12:03.263Z",
         "firstPublishedAt": "2019-10-05T14:41:31.251Z",
         "createdBy": {
           "sys": {
@@ -3747,8 +3774,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 23,
+        "publishedCounter": 8,
+        "version": 29,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3810,6 +3837,81 @@
           "es": 5
         }
       }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "1us0mfst32lg"
+          }
+        },
+        "id": "6MBSeQ2PrIB7KLiX6Q025T",
+        "type": "Entry",
+        "createdAt": "2019-10-10T02:21:38.860Z",
+        "updatedAt": "2019-10-10T02:28:56.040Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 100,
+        "publishedAt": "2019-10-10T02:28:56.040Z",
+        "firstPublishedAt": "2019-10-10T02:23:54.250Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 101,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "headerBanner"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "es": "Queremos que te enfoques en la magia de tu local"
+        },
+        "subHeading": {
+          "es": "Entrega delicias que deleitan a tu cliente sin preocuparte del resto"
+        },
+        "image": {
+          "es": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "55TBgHECytXVZBMiTvq9hX"
+            }
+          }
+        },
+        "buttonLink": {
+          "es": "http://mercadofood.cl/tienda"
+        }
+      }
     }
   ],
   "assets": [
@@ -3825,7 +3927,7 @@
         "id": "19Yb1uPOxfpI4ljLo2O7qB",
         "type": "Asset",
         "createdAt": "2019-09-23T02:27:59.380Z",
-        "updatedAt": "2019-10-07T17:59:01.817Z",
+        "updatedAt": "2019-10-08T22:11:17.909Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3833,8 +3935,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 30,
-        "publishedAt": "2019-10-07T17:59:01.817Z",
+        "publishedVersion": 39,
+        "publishedAt": "2019-10-08T22:11:17.909Z",
         "firstPublishedAt": "2019-09-23T02:29:06.506Z",
         "createdBy": {
           "sys": {
@@ -3850,8 +3952,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 31,
+        "publishedCounter": 7,
+        "version": 40,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3866,7 +3968,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/19Yb1uPOxfpI4ljLo2O7qB/43099765149436edeaef2eafed9acbd9/WhatsApp_Image_2019-09-04_at_2.02.05_PM__2_.jpeg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/19Yb1uPOxfpI4ljLo2O7qB/23eb1c3bc107a48f66a2a219f154ebb4/WhatsApp_Image_2019-09-04_at_2.02.05_PM__2_.jpeg",
             "details": {
               "size": 149616,
               "image": {
@@ -3892,7 +3994,7 @@
         "id": "44ijhTD71Vt5HkOSsmNbfI",
         "type": "Asset",
         "createdAt": "2019-09-23T02:50:48.822Z",
-        "updatedAt": "2019-10-07T17:59:31.511Z",
+        "updatedAt": "2019-10-08T22:11:50.491Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3900,8 +4002,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 21,
-        "publishedAt": "2019-10-07T17:59:31.511Z",
+        "publishedVersion": 30,
+        "publishedAt": "2019-10-08T22:11:50.491Z",
         "firstPublishedAt": "2019-09-23T02:52:13.963Z",
         "createdBy": {
           "sys": {
@@ -3917,8 +4019,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 22,
+        "publishedCounter": 7,
+        "version": 31,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3933,7 +4035,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/44ijhTD71Vt5HkOSsmNbfI/244202962224b9c07d1936a54c9b6cc1/SqSkIEBt.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/44ijhTD71Vt5HkOSsmNbfI/b487fdcfa4877ba60b264d7c24813ae2/SqSkIEBt.jpg",
             "details": {
               "size": 24875,
               "image": {
@@ -3959,7 +4061,7 @@
         "id": "6UyjNnSOVxZLHG4sQz05om",
         "type": "Asset",
         "createdAt": "2019-09-23T18:38:42.677Z",
-        "updatedAt": "2019-10-07T17:59:30.604Z",
+        "updatedAt": "2019-10-08T22:11:49.456Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3967,8 +4069,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 30,
-        "publishedAt": "2019-10-07T17:59:30.604Z",
+        "publishedVersion": 39,
+        "publishedAt": "2019-10-08T22:11:49.456Z",
         "firstPublishedAt": "2019-09-23T18:39:21.023Z",
         "createdBy": {
           "sys": {
@@ -3984,8 +4086,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 31,
+        "publishedCounter": 7,
+        "version": 40,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4000,7 +4102,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/6UyjNnSOVxZLHG4sQz05om/4932004b43a9e222aa06bc18831b9dd5/Pengar_-_2019.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/6UyjNnSOVxZLHG4sQz05om/921a390fdcc0bfffeae94a186111476d/Pengar_-_2019.jpg",
             "details": {
               "size": 787285,
               "image": {
@@ -4026,7 +4128,7 @@
         "id": "EzirFCo7zQV0P7Z4gREFH",
         "type": "Asset",
         "createdAt": "2019-09-23T18:43:09.265Z",
-        "updatedAt": "2019-10-07T17:59:29.599Z",
+        "updatedAt": "2019-10-08T22:11:48.619Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4034,8 +4136,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 25,
-        "publishedAt": "2019-10-07T17:59:29.599Z",
+        "publishedVersion": 34,
+        "publishedAt": "2019-10-08T22:11:48.619Z",
         "firstPublishedAt": "2019-09-23T18:43:49.999Z",
         "createdBy": {
           "sys": {
@@ -4051,8 +4153,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 26,
+        "publishedCounter": 7,
+        "version": 35,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4067,7 +4169,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/EzirFCo7zQV0P7Z4gREFH/8bec2682958e4a6a185f2670811d4572/WhatsApp_Image_2019-09-04_at_2.02.05_PM__1_.jpeg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/EzirFCo7zQV0P7Z4gREFH/0de752141b982cdab0e54a0f9bb23660/WhatsApp_Image_2019-09-04_at_2.02.05_PM__1_.jpeg",
             "details": {
               "size": 14947,
               "image": {
@@ -4093,7 +4195,7 @@
         "id": "7xFU73TGTYcaR47zarT6A6",
         "type": "Asset",
         "createdAt": "2019-09-23T18:44:58.791Z",
-        "updatedAt": "2019-10-07T17:59:28.642Z",
+        "updatedAt": "2019-10-08T22:11:47.586Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4101,8 +4203,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 45,
-        "publishedAt": "2019-10-07T17:59:28.642Z",
+        "publishedVersion": 54,
+        "publishedAt": "2019-10-08T22:11:47.586Z",
         "firstPublishedAt": "2019-09-23T18:45:43.007Z",
         "createdBy": {
           "sys": {
@@ -4118,8 +4220,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 46,
+        "publishedCounter": 7,
+        "version": 55,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4134,7 +4236,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/7xFU73TGTYcaR47zarT6A6/b74d5f5a82ffcbd93748bec3c5edcf21/WhatsApp_Image_2019-09-04_at_2.02.05_PM.jpeg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/7xFU73TGTYcaR47zarT6A6/868134700f5375c8439ac25c93cba8af/WhatsApp_Image_2019-09-04_at_2.02.05_PM.jpeg",
             "details": {
               "size": 64747,
               "image": {
@@ -4160,7 +4262,7 @@
         "id": "1INPzqpiDCfOiuFU1YnH91",
         "type": "Asset",
         "createdAt": "2019-09-23T21:13:19.301Z",
-        "updatedAt": "2019-10-07T17:59:27.572Z",
+        "updatedAt": "2019-10-08T22:11:46.597Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4168,8 +4270,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 13,
-        "publishedAt": "2019-10-07T17:59:27.572Z",
+        "publishedVersion": 22,
+        "publishedAt": "2019-10-08T22:11:46.597Z",
         "firstPublishedAt": "2019-09-23T21:13:34.759Z",
         "createdBy": {
           "sys": {
@@ -4185,8 +4287,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 14,
+        "publishedCounter": 7,
+        "version": 23,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4201,7 +4303,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/1INPzqpiDCfOiuFU1YnH91/87cf51f171d7c11a68f8500b81cdb303/mike-tyson-hero.png",
+            "url": "//images.ctfassets.net/1us0mfst32lg/1INPzqpiDCfOiuFU1YnH91/d838be3a347fa627a92d0f55b12e0cb6/mike-tyson-hero.png",
             "details": {
               "size": 537618,
               "image": {
@@ -4227,7 +4329,7 @@
         "id": "4ueD1AH0sdlNyBOLNwVapj",
         "type": "Asset",
         "createdAt": "2019-10-01T18:18:47.942Z",
-        "updatedAt": "2019-10-07T17:59:26.718Z",
+        "updatedAt": "2019-10-08T22:11:45.554Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4235,8 +4337,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 17,
-        "publishedAt": "2019-10-07T17:59:26.718Z",
+        "publishedVersion": 26,
+        "publishedAt": "2019-10-08T22:11:45.554Z",
         "firstPublishedAt": "2019-10-01T18:19:41.313Z",
         "createdBy": {
           "sys": {
@@ -4252,8 +4354,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 18,
+        "publishedCounter": 7,
+        "version": 27,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4268,7 +4370,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/4ueD1AH0sdlNyBOLNwVapj/92035df8fcd3ad7a1f984cbcfb02315b/Peanutjar.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/4ueD1AH0sdlNyBOLNwVapj/e8646ad77a063303c98e5c9603926ad6/Peanutjar.jpg",
             "details": {
               "size": 1995373,
               "image": {
@@ -4294,7 +4396,7 @@
         "id": "4Xhmno9fUK1KN08EZvjDmN",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:26.751Z",
-        "updatedAt": "2019-10-07T17:59:25.698Z",
+        "updatedAt": "2019-10-08T22:11:44.523Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4302,8 +4404,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:25.698Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:44.523Z",
         "firstPublishedAt": "2019-10-05T14:38:32.385Z",
         "createdBy": {
           "sys": {
@@ -4319,8 +4421,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4335,7 +4437,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/4Xhmno9fUK1KN08EZvjDmN/004b133b132b9d16e18d5416da3c9cba/APIO-PICADO.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/4Xhmno9fUK1KN08EZvjDmN/2fcd254741bb10b9ff047d257d5f9906/APIO-PICADO.jpg",
             "details": {
               "size": 86774,
               "image": {
@@ -4361,7 +4463,7 @@
         "id": "3SfYdSmTqMtkjNl48bW7Ro",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:26.759Z",
-        "updatedAt": "2019-10-07T17:59:24.692Z",
+        "updatedAt": "2019-10-08T22:11:43.495Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4369,8 +4471,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:24.692Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:43.495Z",
         "firstPublishedAt": "2019-10-05T14:38:32.432Z",
         "createdBy": {
           "sys": {
@@ -4386,8 +4488,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4402,7 +4504,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/3SfYdSmTqMtkjNl48bW7Ro/a02a3f0add6d629b2251d23d33312bfd/ACELGA-PICADA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/3SfYdSmTqMtkjNl48bW7Ro/2358cc36a8c4cbf8bf951baaeaeeb332/ACELGA-PICADA.jpg",
             "details": {
               "size": 91163,
               "image": {
@@ -4428,7 +4530,7 @@
         "id": "7xpnewFEZmt2eM6pKr9ETH",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:26.763Z",
-        "updatedAt": "2019-10-07T17:59:23.656Z",
+        "updatedAt": "2019-10-08T22:11:42.475Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4436,8 +4538,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:23.656Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:42.475Z",
         "firstPublishedAt": "2019-10-05T14:38:32.127Z",
         "createdBy": {
           "sys": {
@@ -4453,8 +4555,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4469,7 +4571,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/7xpnewFEZmt2eM6pKr9ETH/99e4824161370686481ea7b878a55e7c/BETARRAGA-CUBO.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/7xpnewFEZmt2eM6pKr9ETH/54e966af5e27cfa11c278e6382189972/BETARRAGA-CUBO.jpg",
             "details": {
               "size": 68154,
               "image": {
@@ -4495,7 +4597,7 @@
         "id": "3FzDf4X9T3IV2wwshyKk5k",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:26.764Z",
-        "updatedAt": "2019-10-07T17:59:22.607Z",
+        "updatedAt": "2019-10-08T22:11:41.343Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4503,8 +4605,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:22.607Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:41.343Z",
         "firstPublishedAt": "2019-10-05T14:38:32.057Z",
         "createdBy": {
           "sys": {
@@ -4520,8 +4622,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4536,7 +4638,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/3FzDf4X9T3IV2wwshyKk5k/f1a54f38fd75bc0445788e74c6eee4ec/BETARRAGA-GRISSE.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/3FzDf4X9T3IV2wwshyKk5k/78a171456f6866bab3fcab3d7d5f99b9/BETARRAGA-GRISSE.jpg",
             "details": {
               "size": 35466,
               "image": {
@@ -4562,7 +4664,7 @@
         "id": "zQOSn6H8KS6MlnsMleUw0",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:26.768Z",
-        "updatedAt": "2019-10-07T17:59:21.615Z",
+        "updatedAt": "2019-10-08T22:11:40.269Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4570,8 +4672,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:21.615Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:40.269Z",
         "firstPublishedAt": "2019-10-05T14:38:32.400Z",
         "createdBy": {
           "sys": {
@@ -4587,8 +4689,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4603,7 +4705,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/zQOSn6H8KS6MlnsMleUw0/5b4a631fd79a2d4ad9080811e12b04c1/APIO-MEDIALUNA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/zQOSn6H8KS6MlnsMleUw0/0bdff7de3bbd6093190aa0509853eefd/APIO-MEDIALUNA.jpg",
             "details": {
               "size": 27623,
               "image": {
@@ -4629,7 +4731,7 @@
         "id": "4awZpOpaBVwJwF3xPEX5wX",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:26.776Z",
-        "updatedAt": "2019-10-07T17:59:20.598Z",
+        "updatedAt": "2019-10-08T22:11:39.306Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4637,8 +4739,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:20.598Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:39.306Z",
         "firstPublishedAt": "2019-10-05T14:38:32.355Z",
         "createdBy": {
           "sys": {
@@ -4654,8 +4756,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4670,7 +4772,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/4awZpOpaBVwJwF3xPEX5wX/1d8ebba316e516a249eebc3e1b3b8377/ACELGA-HOJA-LIMPIA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/4awZpOpaBVwJwF3xPEX5wX/9d97bc70ce3890f48df17d3fea9a7bfb/ACELGA-HOJA-LIMPIA.jpg",
             "details": {
               "size": 61632,
               "image": {
@@ -4696,7 +4798,7 @@
         "id": "uZzfwA4uvJ51qOaneF13O",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.015Z",
-        "updatedAt": "2019-10-07T17:59:19.578Z",
+        "updatedAt": "2019-10-08T22:11:38.165Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4704,8 +4806,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:19.578Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:38.165Z",
         "firstPublishedAt": "2019-10-05T14:38:32.115Z",
         "createdBy": {
           "sys": {
@@ -4721,8 +4823,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4737,7 +4839,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/uZzfwA4uvJ51qOaneF13O/6cf769cb57ae5f82783ad1a7c0f0a81e/BETARRAGA-HILO.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/uZzfwA4uvJ51qOaneF13O/a87b71efafc480c0c6ac7d28ee24c90c/BETARRAGA-HILO.jpg",
             "details": {
               "size": 20781,
               "image": {
@@ -4763,7 +4865,7 @@
         "id": "5aulM64xvdzXZPlSrg4zCq",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.042Z",
-        "updatedAt": "2019-10-07T17:59:18.533Z",
+        "updatedAt": "2019-10-08T22:11:37.140Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4771,8 +4873,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:18.533Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:37.140Z",
         "firstPublishedAt": "2019-10-05T14:38:31.671Z",
         "createdBy": {
           "sys": {
@@ -4788,8 +4890,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4804,7 +4906,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/5aulM64xvdzXZPlSrg4zCq/b5c800f0e28e94fa7cc62ad5cf1f51a5/BETARRAGA-RODELA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/5aulM64xvdzXZPlSrg4zCq/84a8379c897ef637503aa1be883b2096/BETARRAGA-RODELA.jpg",
             "details": {
               "size": 56272,
               "image": {
@@ -4830,7 +4932,7 @@
         "id": "3mwExr4vyTeKiqIXnFcAU5",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.055Z",
-        "updatedAt": "2019-10-07T17:59:17.501Z",
+        "updatedAt": "2019-10-08T22:11:36.125Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4838,8 +4940,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:17.501Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:36.125Z",
         "firstPublishedAt": "2019-10-05T14:38:31.731Z",
         "createdBy": {
           "sys": {
@@ -4855,8 +4957,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4871,7 +4973,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/3mwExr4vyTeKiqIXnFcAU5/b04cf96be12ca59eb855c96e49161ba6/BETARRAGA-RALLADA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/3mwExr4vyTeKiqIXnFcAU5/afce5c161f9d7b8aa916bf3105725e32/BETARRAGA-RALLADA.jpg",
             "details": {
               "size": 31830,
               "image": {
@@ -4897,7 +4999,7 @@
         "id": "4rqoOxU4VKrKMIWYWHZoKg",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.055Z",
-        "updatedAt": "2019-10-07T17:59:16.461Z",
+        "updatedAt": "2019-10-08T22:11:35.092Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4905,8 +5007,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:16.461Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:35.092Z",
         "firstPublishedAt": "2019-10-05T14:38:32.166Z",
         "createdBy": {
           "sys": {
@@ -4922,8 +5024,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4938,7 +5040,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/4rqoOxU4VKrKMIWYWHZoKg/d58687b4cb455974f8d8e23850cd4845/BETARRAGA-PELADA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/4rqoOxU4VKrKMIWYWHZoKg/0bcc349561b30c3f0415adfcf416cf2c/BETARRAGA-PELADA.jpg",
             "details": {
               "size": 43666,
               "image": {
@@ -4964,7 +5066,7 @@
         "id": "1yF2C9QHoJdk1wQ0sz8kHY",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.183Z",
-        "updatedAt": "2019-10-07T17:59:15.543Z",
+        "updatedAt": "2019-10-08T22:11:34.092Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4972,8 +5074,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:15.543Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:34.092Z",
         "firstPublishedAt": "2019-10-05T14:38:33.410Z",
         "createdBy": {
           "sys": {
@@ -4989,8 +5091,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5005,7 +5107,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/1yF2C9QHoJdk1wQ0sz8kHY/05d3905e946ef971a3d4941aacadbd60/CEBOLLA-CUADRO.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/1yF2C9QHoJdk1wQ0sz8kHY/1151f2b8db3fe1960da8cfb56f9dcd61/CEBOLLA-CUADRO.jpg",
             "details": {
               "size": 855670,
               "image": {
@@ -5031,7 +5133,7 @@
         "id": "7bOpRn6LMrBRihl7EbmrsP",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.195Z",
-        "updatedAt": "2019-10-07T17:59:14.679Z",
+        "updatedAt": "2019-10-08T22:11:33.280Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5039,8 +5141,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:14.679Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:33.280Z",
         "firstPublishedAt": "2019-10-05T14:38:33.688Z",
         "createdBy": {
           "sys": {
@@ -5056,8 +5158,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5072,7 +5174,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/7bOpRn6LMrBRihl7EbmrsP/df8c87d4e7c63da0513800be61d93eef/CAMOTE-PELADO.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/7bOpRn6LMrBRihl7EbmrsP/665f87f1f72dc24c88223f93b9738da4/CAMOTE-PELADO.jpg",
             "details": {
               "size": 13420,
               "image": {
@@ -5098,7 +5200,7 @@
         "id": "2ZGuVOzeuOC3IIvfCi4V9u",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.267Z",
-        "updatedAt": "2019-10-07T17:59:13.796Z",
+        "updatedAt": "2019-10-08T22:11:32.226Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5106,8 +5208,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:13.796Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:32.226Z",
         "firstPublishedAt": "2019-10-05T14:38:31.722Z",
         "createdBy": {
           "sys": {
@@ -5123,8 +5225,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5139,7 +5241,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/2ZGuVOzeuOC3IIvfCi4V9u/65f149e28a499e216d98809958ed9492/CEBOLLA-MORADA-PELADA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/2ZGuVOzeuOC3IIvfCi4V9u/1813be6b6fdbe8240b17820daf754f17/CEBOLLA-MORADA-PELADA.jpg",
             "details": {
               "size": 177544,
               "image": {
@@ -5165,7 +5267,7 @@
         "id": "r73EshfVR9CM4YScHmFRV",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.316Z",
-        "updatedAt": "2019-10-07T17:59:12.789Z",
+        "updatedAt": "2019-10-08T22:11:31.233Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5173,8 +5275,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:12.789Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:31.233Z",
         "firstPublishedAt": "2019-10-05T14:38:33.750Z",
         "createdBy": {
           "sys": {
@@ -5190,8 +5292,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5206,7 +5308,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/r73EshfVR9CM4YScHmFRV/a0b5f7350ce7799599c00e72188c0fa4/CEBOLLA-PELADA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/r73EshfVR9CM4YScHmFRV/fe86aaabe9a91fc16ea9c07fa16bc70e/CEBOLLA-PELADA.jpg",
             "details": {
               "size": 171182,
               "image": {
@@ -5232,7 +5334,7 @@
         "id": "3sHrWTajG44TieCE7Vuwjg",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.368Z",
-        "updatedAt": "2019-10-07T17:59:11.757Z",
+        "updatedAt": "2019-10-08T22:11:30.182Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5240,8 +5342,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:11.757Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:30.182Z",
         "firstPublishedAt": "2019-10-05T14:38:36.624Z",
         "createdBy": {
           "sys": {
@@ -5257,8 +5359,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5273,7 +5375,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/3sHrWTajG44TieCE7Vuwjg/e9ae848b0b1f9c71ca547bba4cf83fd3/CHALOTA-PELADA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/3sHrWTajG44TieCE7Vuwjg/5370f4c45d56bdc716d4beb1bbb365dc/CHALOTA-PELADA.jpg",
             "details": {
               "size": 101207,
               "image": {
@@ -5299,7 +5401,7 @@
         "id": "4D06e2vJmBWoqgyVWy06l9",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.423Z",
-        "updatedAt": "2019-10-07T17:59:10.762Z",
+        "updatedAt": "2019-10-08T22:11:29.182Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5307,8 +5409,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:10.762Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:29.182Z",
         "firstPublishedAt": "2019-10-05T14:38:31.794Z",
         "createdBy": {
           "sys": {
@@ -5324,8 +5426,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5340,7 +5442,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/4D06e2vJmBWoqgyVWy06l9/f324b517a9c0fbc4ef97c3ad190af158/CEBOLLA-PLUMA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/4D06e2vJmBWoqgyVWy06l9/a9c6823da5b3f0809d9d62084913c9fb/CEBOLLA-PLUMA.jpg",
             "details": {
               "size": 62742,
               "image": {
@@ -5366,7 +5468,7 @@
         "id": "5ZFsbc8cDFvVnzDbjx0wRC",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.428Z",
-        "updatedAt": "2019-10-07T17:59:09.731Z",
+        "updatedAt": "2019-10-08T22:11:28.259Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5374,8 +5476,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:09.731Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:28.259Z",
         "firstPublishedAt": "2019-10-05T14:38:31.690Z",
         "createdBy": {
           "sys": {
@@ -5391,8 +5493,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5407,7 +5509,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/5ZFsbc8cDFvVnzDbjx0wRC/0eeedf789ee3e1033381ab5eb2e02646/HOJA-LECHUGA-COSTINA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/5ZFsbc8cDFvVnzDbjx0wRC/0e15d3c8335dbdbec705c473d8625b9f/HOJA-LECHUGA-COSTINA.jpg",
             "details": {
               "size": 109583,
               "image": {
@@ -5433,7 +5535,7 @@
         "id": "4a659ADc0Kw8ECS59AetTN",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:27.484Z",
-        "updatedAt": "2019-10-07T17:59:08.692Z",
+        "updatedAt": "2019-10-08T22:11:27.098Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5441,8 +5543,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:08.692Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:27.098Z",
         "firstPublishedAt": "2019-10-05T14:38:31.815Z",
         "createdBy": {
           "sys": {
@@ -5458,8 +5560,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5474,7 +5576,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/4a659ADc0Kw8ECS59AetTN/cb82b3ef08be4f2b62c162740a8b7498/CORAZON-DE-LECHUGA-COSTINA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/4a659ADc0Kw8ECS59AetTN/15cc017dff4d8e320e098c99a8616660/CORAZON-DE-LECHUGA-COSTINA.jpg",
             "details": {
               "size": 71314,
               "image": {
@@ -5500,7 +5602,7 @@
         "id": "1U2NVhcPyL0Prh9KdrRnDp",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:28.316Z",
-        "updatedAt": "2019-10-07T17:59:07.667Z",
+        "updatedAt": "2019-10-08T22:11:26.100Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5508,8 +5610,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:07.667Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:26.100Z",
         "firstPublishedAt": "2019-10-05T14:38:32.113Z",
         "createdBy": {
           "sys": {
@@ -5525,8 +5627,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5541,7 +5643,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/1U2NVhcPyL0Prh9KdrRnDp/9c594ae5d65f794a3666f60d882f9f0d/AJO-PELADO.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/1U2NVhcPyL0Prh9KdrRnDp/de6522043f75b72b0e2117d454030118/AJO-PELADO.jpg",
             "details": {
               "size": 125400,
               "image": {
@@ -5567,7 +5669,7 @@
         "id": "46NIEIWAhqrD48aCHpYq0K",
         "type": "Asset",
         "createdAt": "2019-10-05T14:36:29.313Z",
-        "updatedAt": "2019-10-07T17:59:06.675Z",
+        "updatedAt": "2019-10-08T22:11:25.077Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5575,8 +5677,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:06.675Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:25.077Z",
         "firstPublishedAt": "2019-10-05T14:38:32.083Z",
         "createdBy": {
           "sys": {
@@ -5592,8 +5694,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5608,7 +5710,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/46NIEIWAhqrD48aCHpYq0K/e600719b93f34f9b7ba564f2f794c783/APIO-BASTON.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/46NIEIWAhqrD48aCHpYq0K/73a4dd02f0f1741cd807299a7f853a6c/APIO-BASTON.jpg",
             "details": {
               "size": 7344,
               "image": {
@@ -5634,7 +5736,7 @@
         "id": "2frpeOT05WAfEqpihFsiaT",
         "type": "Asset",
         "createdAt": "2019-10-05T14:37:14.806Z",
-        "updatedAt": "2019-10-07T17:59:05.845Z",
+        "updatedAt": "2019-10-08T22:11:24.036Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5642,8 +5744,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:05.845Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:24.036Z",
         "firstPublishedAt": "2019-10-05T14:38:31.376Z",
         "createdBy": {
           "sys": {
@@ -5659,8 +5761,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5675,7 +5777,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/2frpeOT05WAfEqpihFsiaT/e7ce5319e2ae777ee5ffea348f5c8535/LECHUGA-ESCAROLA-PICADA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/2frpeOT05WAfEqpihFsiaT/3e556dc4492ecbbe893b730ba0c649c2/LECHUGA-ESCAROLA-PICADA.jpg",
             "details": {
               "size": 119039,
               "image": {
@@ -5701,7 +5803,7 @@
         "id": "6JcWNxzLjVzIPSiHsyYrxd",
         "type": "Asset",
         "createdAt": "2019-10-05T14:37:14.806Z",
-        "updatedAt": "2019-10-07T17:59:04.838Z",
+        "updatedAt": "2019-10-08T22:11:23.013Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5709,8 +5811,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:04.838Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:23.013Z",
         "firstPublishedAt": "2019-10-05T14:38:31.300Z",
         "createdBy": {
           "sys": {
@@ -5726,8 +5828,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5742,7 +5844,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/6JcWNxzLjVzIPSiHsyYrxd/927d2911e54d88a52470ca7cd4d6d257/HOJA-LECHUGA-LOLOROSA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/6JcWNxzLjVzIPSiHsyYrxd/a7aa9613ce3099d8469dee2998640cdb/HOJA-LECHUGA-LOLOROSA.jpg",
             "details": {
               "size": 28480,
               "image": {
@@ -5768,7 +5870,7 @@
         "id": "5cywMjaBuSrR87ASY2xRou",
         "type": "Asset",
         "createdAt": "2019-10-05T14:37:14.808Z",
-        "updatedAt": "2019-10-07T17:59:03.812Z",
+        "updatedAt": "2019-10-08T22:11:21.994Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5776,8 +5878,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:03.812Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:21.994Z",
         "firstPublishedAt": "2019-10-05T14:38:31.408Z",
         "createdBy": {
           "sys": {
@@ -5793,8 +5895,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5809,7 +5911,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/5cywMjaBuSrR87ASY2xRou/e6d162cd01c90567f68d4044a4900614/HOJA-LECHUGA-ESCAROLA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/5cywMjaBuSrR87ASY2xRou/47cf968944e7e1565d1f440fdbdff154/HOJA-LECHUGA-ESCAROLA.jpg",
             "details": {
               "size": 377863,
               "image": {
@@ -5835,7 +5937,7 @@
         "id": "6mYqJzChZvojdwb0s3aPNl",
         "type": "Asset",
         "createdAt": "2019-10-05T14:37:14.813Z",
-        "updatedAt": "2019-10-07T17:59:02.838Z",
+        "updatedAt": "2019-10-08T22:11:20.970Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -5843,8 +5945,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2019-10-07T17:59:02.838Z",
+        "publishedVersion": 20,
+        "publishedAt": "2019-10-08T22:11:20.970Z",
         "firstPublishedAt": "2019-10-05T14:38:31.489Z",
         "createdBy": {
           "sys": {
@@ -5860,8 +5962,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 7,
+        "version": 21,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -5876,7 +5978,7 @@
         },
         "file": {
           "es": {
-            "url": "//images.ctfassets.net/1us0mfst32lg/6mYqJzChZvojdwb0s3aPNl/535d3cf1b25dab21ce43dd22dcd7023b/LECHUGA-COSTINA-PICADA.jpg",
+            "url": "//images.ctfassets.net/1us0mfst32lg/6mYqJzChZvojdwb0s3aPNl/c20811719d40e77f994f261b823ad439/LECHUGA-COSTINA-PICADA.jpg",
             "details": {
               "size": 92151,
               "image": {
@@ -5885,6 +5987,341 @@
               }
             },
             "fileName": "LECHUGA-COSTINA-PICADA.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "1us0mfst32lg"
+          }
+        },
+        "id": "15iwQzreDi18I1qj5L27bs",
+        "type": "Asset",
+        "createdAt": "2019-10-08T21:54:57.542Z",
+        "updatedAt": "2019-10-08T22:11:19.948Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "publishedAt": "2019-10-08T22:11:19.948Z",
+        "firstPublishedAt": "2019-10-08T21:55:17.299Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 8,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "es": "frutas-verduras-la-vega-mercado-food"
+        },
+        "file": {
+          "es": {
+            "url": "//images.ctfassets.net/1us0mfst32lg/15iwQzreDi18I1qj5L27bs/646d3c98d5be308cb5cbb5bc81d98c74/frutas-verduras-la-vega-mercado-food.jpg",
+            "details": {
+              "size": 123261,
+              "image": {
+                "width": 800,
+                "height": 533
+              }
+            },
+            "fileName": "frutas-verduras-la-vega-mercado-food.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "1us0mfst32lg"
+          }
+        },
+        "id": "6LLby9AAB0A3pcphlcDvCb",
+        "type": "Asset",
+        "createdAt": "2019-10-08T22:01:31.394Z",
+        "updatedAt": "2019-10-08T22:11:18.916Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "publishedAt": "2019-10-08T22:11:18.916Z",
+        "firstPublishedAt": "2019-10-08T22:02:00.903Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 8,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "es": "tacos-comida-mercado-food"
+        },
+        "file": {
+          "es": {
+            "url": "//images.ctfassets.net/1us0mfst32lg/6LLby9AAB0A3pcphlcDvCb/14b0a708fb2d9c19b1de898e4a814b17/tacos-comida-mercado-food.jpg",
+            "details": {
+              "size": 163733,
+              "image": {
+                "width": 768,
+                "height": 540
+              }
+            },
+            "fileName": "tacos-comida-mercado-food.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "1us0mfst32lg"
+          }
+        },
+        "id": "55TBgHECytXVZBMiTvq9hX",
+        "type": "Asset",
+        "createdAt": "2019-10-10T02:22:54.955Z",
+        "updatedAt": "2019-10-10T02:23:11.268Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2019-10-10T02:23:11.268Z",
+        "firstPublishedAt": "2019-10-10T02:23:11.268Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "es": "restaurante-santiago-chile-mercado-food"
+        },
+        "file": {
+          "es": {
+            "url": "//images.ctfassets.net/1us0mfst32lg/55TBgHECytXVZBMiTvq9hX/a57e5b5c6b49a4c1caea2f9b89bf85a1/restaurante-santiago-chile-mercado-food.jpg",
+            "details": {
+              "size": 136478,
+              "image": {
+                "width": 1260,
+                "height": 710
+              }
+            },
+            "fileName": "restaurante-santiago-chile-mercado-food.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "1us0mfst32lg"
+          }
+        },
+        "id": "16gslQyf1FyIDu8D1CtlXg",
+        "type": "Asset",
+        "createdAt": "2019-10-10T02:36:27.402Z",
+        "updatedAt": "2019-10-10T02:37:04.485Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2019-10-10T02:37:04.485Z",
+        "firstPublishedAt": "2019-10-10T02:37:04.485Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "es": "logotipo-mercado-food-comida-por-mayor"
+        },
+        "file": {
+          "es": {
+            "url": "//images.ctfassets.net/1us0mfst32lg/16gslQyf1FyIDu8D1CtlXg/d8f9daab2941a6479912df05fa88b6bf/logotipo-mercado-food-comida-por-mayor.png",
+            "details": {
+              "size": 66869,
+              "image": {
+                "width": 1064,
+                "height": 650
+              }
+            },
+            "fileName": "logotipo-mercado-food-comida-por-mayor.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "1us0mfst32lg"
+          }
+        },
+        "id": "4XjciNJCs1v5n5psnNfPnJ",
+        "type": "Asset",
+        "createdAt": "2019-10-10T02:39:02.654Z",
+        "updatedAt": "2019-10-10T02:39:21.331Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2019-10-10T02:39:21.331Z",
+        "firstPublishedAt": "2019-10-10T02:39:21.331Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "6gIufn5DZc7ZCG6oGMWdHK"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "es": "La-Vega-Market-Santiago"
+        },
+        "file": {
+          "es": {
+            "url": "//images.ctfassets.net/1us0mfst32lg/4XjciNJCs1v5n5psnNfPnJ/e304540b9cb2cc0b45adce0865dae89e/La-Vega-Market-Santiago-2.jpeg",
+            "details": {
+              "size": 146987,
+              "image": {
+                "width": 800,
+                "height": 534
+              }
+            },
+            "fileName": "La-Vega-Market-Santiago-2.jpeg",
             "contentType": "image/jpeg"
           }
         }
@@ -5935,52 +6372,10 @@
         },
         "updatedAt": "2019-10-04T15:51:21Z"
       }
-    },
-    {
-      "name": "Spanish (Chile)",
-      "code": "es-CL",
-      "fallbackCode": null,
-      "default": false,
-      "contentManagementApi": true,
-      "contentDeliveryApi": true,
-      "optional": false,
-      "sys": {
-        "type": "Locale",
-        "id": "4tUaHJIoIP9xvFEYQUxhxD",
-        "version": 1,
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "1us0mfst32lg"
-          }
-        },
-        "environment": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Environment",
-            "id": "master"
-          }
-        },
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "6gIufn5DZc7ZCG6oGMWdHK"
-          }
-        },
-        "createdAt": "2019-10-04T15:50:12Z",
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "6gIufn5DZc7ZCG6oGMWdHK"
-          }
-        },
-        "updatedAt": "2019-10-04T15:50:12Z"
-      }
     }
   ],
-  "webhooks": [],
-  "roles": []
+  "webhooks": [
+  ],
+  "roles": [
+  ]
 }

@@ -4,6 +4,17 @@
   "description": "E-Commerce site with Gatsby and React",
   "version": "0.1.0",
   "author": "Rohit Gupta <rohitguptab33@gmail.com>",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "update": "contentful space  export --content-file oneshopper.json; rm -rf .cache; npm run develop",
+    "update:in": "contentful space  import --content-file oneshopper.json; rm -rf .cache; npm run develop"
+  },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "disqus-react": "^1.0.5",
@@ -41,17 +52,6 @@
     "gatsby"
   ],
   "license": "MIT",
-  "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write src/**/*.{js,jsx}",
-    "start": "npm run develop",
-    "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
-    "update": "contentful space  export --content-file oneshopper.json; rm -rf .cache; npm run develop",
-    "update:in": "contentful space  import --content-file oneshopper.json; rm -rf .cache; npm run develop"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Rohitguptab/OneShopper"

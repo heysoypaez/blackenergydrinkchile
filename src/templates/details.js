@@ -50,7 +50,7 @@ const ProductDetails = data => (
             </span>
           </div>
           <div className="col-sm-10 text-left">
-            <a
+            <button
               href="#"
               className="Product snipcart-add-item"
               data-item-id={data.data.contentfulProduct.slug}
@@ -65,7 +65,7 @@ const ProductDetails = data => (
             >
               <i className="fas fa-tags" />
               Encargar ahora
-            </a>
+            </button>
           </div>
         </div>
         <div
