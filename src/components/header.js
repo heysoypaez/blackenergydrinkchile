@@ -26,27 +26,27 @@ const Header = ({ siteTitle }) => (
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/blogs">
+                <Link className="nav-link" to="/blog">
                   Blog
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/store">
+                <Link className="nav-link" to="/tienda">
                   Tienda
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/about">
+                <Link className="nav-link" to="/sobre-nosotros">
                   Sobre Nosotros
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/distributors">
+                <Link className="nav-link" to="/distribuidores">
                   Distribuidores
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/contact-us">
+                <Link className="nav-link" to="/contacto">
                   Contacto
                 </Link>
               </li>

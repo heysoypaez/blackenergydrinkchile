@@ -28,7 +28,7 @@ export default class Banner extends Component {
                   <div>
                     <span className="sub-title">{items.node.subHeading}</span>
                     <h1>{items.node.title}</h1>
-                    <Link to="/store">Compra ahora</Link>
+                    <Link to="/tienda">Compra ahora</Link>
                   </div>
                 </div>
               </div>
