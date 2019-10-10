@@ -43,8 +43,8 @@ class IndexPost extends React.Component {
                       <span className="price">${items.node.price}</span>
                     </div>
                     <div className="col-sm-8 text-right align-self-center">
-                      <a
-                        href="#"
+                      <button
+                        
                         className="Product snipcart-add-item"
                         data-item-id={items.node.slug}
                         data-item-price={items.node.price}
@@ -58,7 +58,7 @@ class IndexPost extends React.Component {
                       >
                         <i className="fas fa-shopping-bag" />
                         Agrega al carrito
-                      </a>
+                      </button>
                     </div>
                   </div>
                 </div>
@@ -77,19 +77,19 @@ const IndexPage = data => (
     <Banner BannerData={data.data.allContentfulHeaderBanner.edges} />
     <div className="container">
       <div className="text-center">
-        <h2 className="with-underline">Últimos productos</h2>
+        <h2 className="with-underline">Productos relevantes</h2>
       </div>
       <IndexPost data={data} />
     </div>
     <LatestBlogs data={data.data.allContentfulBlogs} />
     <div className="container">
       <div className="text-center">
-        <h2 className="with-underline">¿Quieres ser distribuidor en Chile?</h2>
+        <h2 className="with-underline">¿Quieres recibir productos en la puerta de tu local?</h2>
         <p>
-          This Started created for Ecommerce site with Gatsby + Contentful and
-          snipcart
+         Entonces, amigo mío, estás en el lugar correcto. 
         </p>
-        <Link to="/contact-us" className="btn">
+        <p>Porque <strong>Mercado Food = <i>economía + comodidad</i></strong>.</p>
+        <Link to="/contacto" className="with-underline">
           Contáctanos
         </Link>
       </div>

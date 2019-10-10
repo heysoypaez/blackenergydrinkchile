@@ -73,7 +73,7 @@ class IndexPost extends React.Component {
                         <span className="price">${items.node.price}</span>
                       </div>
                       <div className="col-sm-8 text-right align-self-center">
-                        <a
+                        <button
                           href="#"
                           className="Product snipcart-add-item"
                           data-item-id={items.node.slug}
@@ -88,7 +88,7 @@ class IndexPost extends React.Component {
                         >
                           <i className="fas fa-shopping-bag" />
                           Agregar al carrito
-                        </a>
+                        </button>
                       </div>
                     </div>
                   </div>

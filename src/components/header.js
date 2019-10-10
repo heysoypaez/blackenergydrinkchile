@@ -41,11 +41,6 @@ const Header = ({ siteTitle }) => (
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/distribuidores">
-                  Distribuidores
-                </Link>
-              </li>
-              <li className="nav-item">
                 <Link className="nav-link" to="/contacto">
                   Contacto
                 </Link>
