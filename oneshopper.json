@@ -231,7 +231,7 @@
         "id": "dealCountDown",
         "type": "ContentType",
         "createdAt": "2019-09-23T00:48:59.447Z",
-        "updatedAt": "2019-10-08T22:10:39.398Z",
+        "updatedAt": "2019-10-10T20:31:16.921Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -239,8 +239,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 25,
-        "publishedAt": "2019-10-08T22:10:39.398Z",
+        "publishedVersion": 27,
+        "publishedAt": "2019-10-10T20:31:16.921Z",
         "firstPublishedAt": "2019-09-23T00:49:02.111Z",
         "createdBy": {
           "sys": {
@@ -256,8 +256,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 13,
-        "version": 26,
+        "publishedCounter": 14,
+        "version": 28,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -297,7 +297,7 @@
           "id": "date",
           "name": "Date",
           "type": "Date",
-          "localized": false,
+          "localized": true,
           "required": false,
           "validations": [
           ],
@@ -719,7 +719,7 @@
             "linkType": "Space"
           }
         },
-        "version": 26,
+        "version": 28,
         "createdAt": "2019-09-23T00:49:02.265Z",
         "createdBy": {
           "sys": {
@@ -728,7 +728,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2019-10-08T22:10:42.345Z",
+        "updatedAt": "2019-10-10T20:31:18.813Z",
         "updatedBy": {
           "sys": {
             "id": "6gIufn5DZc7ZCG6oGMWdHK",
@@ -764,6 +764,10 @@
         },
         {
           "fieldId": "date",
+          "settings": {
+            "ampm": "24",
+            "format": "timeZ"
+          },
           "widgetId": "datePicker",
           "widgetNamespace": "builtin"
         },
@@ -1654,7 +1658,7 @@
         "id": "7txWx4CZEQOWf0WhjeJt8v",
         "type": "Entry",
         "createdAt": "2019-09-23T18:44:40.658Z",
-        "updatedAt": "2019-10-08T22:12:26.718Z",
+        "updatedAt": "2019-10-10T20:29:14.054Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1662,8 +1666,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 75,
-        "publishedAt": "2019-10-08T22:12:26.718Z",
+        "publishedVersion": 78,
+        "publishedAt": "2019-10-10T20:29:14.054Z",
         "firstPublishedAt": "2019-09-23T18:46:05.928Z",
         "createdBy": {
           "sys": {
@@ -1679,8 +1683,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 9,
-        "version": 76,
+        "publishedCounter": 10,
+        "version": 79,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1713,7 +1717,7 @@
           "es": "2019-12-31T00:00-03:00"
         },
         "buttonLink": {
-          "es": "http://mercadofood.com/tienda"
+          "es": "http://mercadofood.cl/tienda"
         }
       }
     },

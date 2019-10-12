@@ -24,20 +24,20 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `OneShopper`,
-        short_name: `starter`,
+        name: `Mercado Food Shop`,
+        short_name: `MercadoFood`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/logotipo-mercado-food-comida-por-mayor.png`,
+        icon: `src/images/logotipo-mercado-food-comida-por-mayor-version-cuadrada.png`
       },
     },
     {
       resolve: "gatsby-source-contentful",
       options: {
         spaceId,
-        accessToken,
+        accessToken
       },
     },
     {

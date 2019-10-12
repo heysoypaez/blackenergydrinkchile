@@ -2,13 +2,14 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import TeamMemberList from "../components/teamMemberList.js"
+import MissionStatement from "../components/missionStatement.js"
 
 class About extends React.Component {
 
   render() {
     return (
       <Layout>
-        <SEO title="About" keywords={[`gatsby`, `application`, `react`]} />{" "}
+        <SEO title="Sobre Nosotros" keywords={[`gatsby`, `application`, `react`]} />{" "}
         <div className="site-About">
           <div className="container">
             <div className="row">
@@ -32,44 +33,19 @@ class About extends React.Component {
 
                 <div> 
                 <h2 id="elequipo">El Equipo.</h2>
+                  <p>
+                    Mercado Food es la sinergia a tu servicio de personas que
+                    conocen el mercado de La vega como la palma de su mano de
+                    generaciones desde muy niño, de la tecnologia web que hace
+                    posible este sitio donde estás, de personas deseando encontrar
+                    nuestro producto que más cubre tus necesidades.
+                  </p>
 
-
-                <p>
-                  Mercado Food es la sinergia a tu servicio de personas que
-                  conocen el mercado de La vega como la palma de su mano de
-                  generaciones desde muy niño, de la tecnologia web que hace
-                  posible este sitio donde estás, de personas deseando encontrar
-                  nuestro producto que más cubre tus necesidades.
-                </p>
-
-                <TeamMemberList />
+                  <TeamMemberList />
 
                 </div>
 
-                <h2 id="lamisin">La misión</h2>
-
-                <p>
-                  No, no somos OTRA empresa MÁS en Chile que escribe una misión
-                  para colgarla en la pared, somos acción,
-                </p>
-
-                <p>
-                  Nuestra misión se resume en impulsar Chile y Latinoamericana
-                  entregando comodidad y economía a emprendedores gastronómicos.
-                </p>
-
-                <hr />
-
-                <p>
-                  Somos entusiasmo por ayudar a emprendedores y empresarios a
-                  realizar las compras de los ingredientes alimenticios para su
-                  negocio de forma comoda y economica.
-                </p>
-
-                <p>
-                  Es decir, nuestros productos en la puerta de tu local
-                  ¿Precios? Somos los que están antes de La Vega
-                </p>
+                <MissionStatement />
 
                 <h2 id="nuestrocliente">Nuestro cliente</h2>
 
@@ -105,7 +81,7 @@ class About extends React.Component {
                 <p>
                   Queremos que los emprendedores tengan más tiempo dedicado a su
                   negocio (y a su familia) y menos haciendo mercado en La Vega,
-                  Franklin, El Tottus, el Lider.
+                  Franklin o grandes supermercados.
                 </p>
 
                 <p>

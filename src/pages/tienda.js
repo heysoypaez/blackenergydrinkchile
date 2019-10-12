@@ -23,6 +23,10 @@ class IndexPost extends React.Component {
     window.removeEventListener("scroll", this.handleScroll)
   }
 
+  handleProductClick = () => {
+ //   console.log(items.node);
+  }
+
   handleScroll() {
     var lastScrollY = window.pageYOffset + 1100
 
@@ -37,7 +41,6 @@ class IndexPost extends React.Component {
   render() {
     const { data } = this.props
     const { NoOfPost } = this.state
-    console.log("onScrollEvent: ", this.onScrollEvent)
 
     return (
       <React.Fragment>
@@ -49,6 +52,7 @@ class IndexPost extends React.Component {
                 className="Catalogue__item col-sm-12 col-md-6 col-lg-4"
                 key={items.node.id}
               >
+              {    console.log(items.node) }
                 <div className="details_List">
                   <Link to={`/${items.node.slug}`}>
                     {items.node.image === null ? (
@@ -85,6 +89,7 @@ class IndexPost extends React.Component {
                           }
                           data-item-name={items.node.name}
                           data-item-url={`/`}
+                          onClick={this.handleProductClick}
                         >
                           <i className="fas fa-shopping-bag" />
                           Agregar al carrito
@@ -103,7 +108,7 @@ class IndexPost extends React.Component {
 
 const IndexPage = data => (
   <Layout>
-    <SEO title="Store" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Tienda" keywords={[`gatsby`, `application`, `react`]} />
     <div className="container store-page">
       <IndexPost data={data} />
     </div>

@@ -1,10 +1,12 @@
-import React, { Component } from "react"
+import React from "react"
 import Img from "gatsby-image"
 import { Link } from "gatsby"
 
-export default class Countdown extends Component {
-  render() {
-    const { data } = this.props
+const Countdown = ({ data }) =>  {
+    let date = new Date(data.date);
+    const options = { year: 'numeric', month: 'long', day: 'numeric' };
+    date = date.toLocaleDateString("es-ES", options)
+
     return (
       <div className="countdown-section">
         <Img sizes={data.featureImage.fluid} />
@@ -14,14 +16,14 @@ export default class Countdown extends Component {
             <span className="date">Fecha límite :</span>
             <span className="date">
               <strong>
-                <i className="fas fa-clock" />
-                {data.date}
+                <i className="fas fa-clock" /> {date}
               </strong>
             </span>
-            <Link to="/store">Compra ahora</Link>
+            <Link to="/tienda">Compra ahora</Link>
           </div>
         </div>
       </div>
-    )
-  }
+    )  
 }
+
+export default Countdown;

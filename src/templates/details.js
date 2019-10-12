@@ -1,9 +1,9 @@
-import React from "react"
-import { Tab, Tabs, TabList, TabPanel } from "react-tabs"
-import StarRatingComponent from "react-star-rating-component"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { graphql } from "gatsby"
+import React from "react";
+import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
+import StarRatingComponent from "react-star-rating-component";
+import Layout from "../components/layout";
+import SEO from "../components/seo";
+import { graphql } from "gatsby";
 
 const ProductDetails = data => (
   <Layout>
