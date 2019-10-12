@@ -11,6 +11,7 @@ class IndexPost extends React.Component {
     super(props)
     this.state = {
       NoOfPost: 6,
+      contactPhone: "56959435437"
     }
     this.handleScroll = this.handleScroll.bind(this)
   }
@@ -77,9 +78,11 @@ class IndexPost extends React.Component {
                         <span className="price">${items.node.price}</span>
                       </div>
                       <div className="col-sm-8 text-right align-self-center">
-                        <button
-                          href="#"
+                        <a
+                          href={`https://wa.me/${this.state.contactPhone}`}
                           className="Product snipcart-add-item"
+                          target="_blank"
+                           rel="noopener noreferrer"
                           data-item-id={items.node.slug}
                           data-item-price={items.node.price}
                           data-item-image={
@@ -92,8 +95,8 @@ class IndexPost extends React.Component {
                           onClick={this.handleProductClick}
                         >
                           <i className="fas fa-shopping-bag" />
-                          Agregar al carrito
-                        </button>
+                          Consulta a ventas
+                        </a>
                       </div>
                     </div>
                   </div>

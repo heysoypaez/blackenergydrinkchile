@@ -10,8 +10,16 @@ import StarRatingComponent from "react-star-rating-component"
 import { graphql } from "gatsby"
 
 class IndexPost extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      contactPhone: "56959435437"
+    }
+  }
+
   render() {
     const { data } = this.props
+    const { contactPhone } = this.state
 
     return (
       <React.Fragment>
@@ -43,9 +51,11 @@ class IndexPost extends React.Component {
                       <span className="price">${items.node.price}</span>
                     </div>
                     <div className="col-sm-8 text-right align-self-center">
-                      <button
-                        
+                      <a                      
+                        href={`https://wa.me/${contactPhone}`}
                         className="Product snipcart-add-item"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         data-item-id={items.node.slug}
                         data-item-price={items.node.price}
                         data-item-image={
@@ -57,8 +67,8 @@ class IndexPost extends React.Component {
                         data-item-url={`/`}
                       >
                         <i className="fas fa-shopping-bag" />
-                        Agrega al carrito
-                      </button>
+                        Consulta a ventas
+                      </a>
                     </div>
                   </div>
                 </div>

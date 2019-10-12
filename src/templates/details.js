@@ -5,6 +5,8 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { graphql } from "gatsby";
 
+const contactPhone = "56959435437";
+
 const ProductDetails = data => (
   <Layout>
     <SEO
@@ -50,9 +52,11 @@ const ProductDetails = data => (
             </span>
           </div>
           <div className="col-sm-10 text-left">
-            <button
-              href="#"
+            <a
+              href={`https://wa.me/${contactPhone}`}
               className="Product snipcart-add-item"
+              target="_blank"
+              rel="noopener noreferrer"
               data-item-id={data.data.contentfulProduct.slug}
               data-item-price={data.data.contentfulProduct.price}
               data-item-image={
@@ -64,8 +68,8 @@ const ProductDetails = data => (
               data-item-url={`/`}
             >
               <i className="fas fa-tags" />
-              Encargar ahora
-            </button>
+              Consulta a ventas
+            </a>
           </div>
         </div>
         <div
