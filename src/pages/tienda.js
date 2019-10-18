@@ -72,7 +72,6 @@ class IndexPost extends React.Component {
                       starCount={5}
                       value={items.node.rating}
                     />
-                    <p>{items.node.details.childMarkdownRemark.excerpt}</p>
                     <div className="row">
                       <div className="col-sm-4 align-self-center">
                         <span className="price">${items.node.price}</span>

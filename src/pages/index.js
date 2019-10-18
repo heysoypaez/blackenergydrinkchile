@@ -45,12 +45,12 @@ class IndexPost extends React.Component {
                     starCount={5}
                     value={items.node.rating}
                   />
-                  <p>{items.node.details.childMarkdownRemark.excerpt}</p>
+                  
                   <div className="row">
-                    <div className="col-sm-4 align-self-center">
+                    <div className="col-sm-5 align-self-center">
                       <span className="price">${items.node.price}</span>
                     </div>
-                    <div className="col-sm-8 text-right align-self-center">
+                    <div className="col-sm-7 text-right align-self-center">
                       <a                      
                         href={`https://wa.me/${contactPhone}`}
                         className="Product snipcart-add-item"
@@ -98,7 +98,7 @@ const IndexPage = data => (
         <p>
          Entonces, amigo mío, estás en el lugar correcto. 
         </p>
-        <p>Porque <strong>Mercado Food = <i>economía + comodidad</i></strong>.</p>
+        <p><strong>Mercado Food = <i>economía + comodidad</i></strong>.</p>
         <Link to="/contacto" className="with-underline">
           Contáctanos
         </Link>

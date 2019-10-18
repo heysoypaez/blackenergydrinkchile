@@ -988,7 +988,7 @@
       },
       "fields": {
         "name": {
-          "es": "Hoja lechuga lolorosa 5kg"
+          "es": "Hoja lechuga lolorosa x kg"
         },
         "slug": {
           "es": "productos/hoja-lechuga-lolorosa"
@@ -1176,7 +1176,7 @@
       },
       "fields": {
         "name": {
-          "es": "Lechuga escarola picada 5kg"
+          "es": "Lechuga escarola picada x kg"
         },
         "slug": {
           "es": "productos/lechuga-escarola-picada"
@@ -1277,7 +1277,7 @@
       },
       "fields": {
         "name": {
-          "es": "Hoja lechuga escarola 5kg"
+          "es": "Hoja lechuga escarola x kg"
         },
         "slug": {
           "es": "productos/hoja-lechuga-escarola"
@@ -1777,7 +1777,7 @@
       },
       "fields": {
         "name": {
-          "es": "Acelga hoja limpia 5kg"
+          "es": "Acelga hoja limpia x kg"
         },
         "slug": {
           "es": "productos/acelga-hoja-limpia"
@@ -1878,7 +1878,7 @@
       },
       "fields": {
         "name": {
-          "es": "Acelga picada 5kg"
+          "es": "Acelga picada x kg"
         },
         "slug": {
           "es": "productos/acelga-picada"
@@ -1979,7 +1979,7 @@
       },
       "fields": {
         "name": {
-          "es": "Ajo pelado 5kg"
+          "es": "Ajo pelado x kg"
         },
         "slug": {
           "es": "productos/ajo-pelado"
@@ -2080,7 +2080,7 @@
       },
       "fields": {
         "name": {
-          "es": "Apio medialuna 5kg"
+          "es": "Apio medialuna x kg"
         },
         "slug": {
           "es": "productos/apio-medialuna"
@@ -2181,7 +2181,7 @@
       },
       "fields": {
         "name": {
-          "es": "Apio picado 5kg"
+          "es": "Apio picado x kg"
         },
         "slug": {
           "es": "productos/apio-picado"
@@ -2282,7 +2282,7 @@
       },
       "fields": {
         "name": {
-          "es": "Apio baston 5kg"
+          "es": "Apio baston x kg"
         },
         "slug": {
           "es": "productos/apio-baston"
@@ -2383,7 +2383,7 @@
       },
       "fields": {
         "name": {
-          "es": "Betarraga pelada 5kg"
+          "es": "Betarraga pelada x kg"
         },
         "slug": {
           "es": "productos/betarraga-pelada"
@@ -2585,7 +2585,7 @@
       },
       "fields": {
         "name": {
-          "es": "Betarraga grisse 5kg"
+          "es": "Betarraga grisse x kg"
         },
         "slug": {
           "es": "productos/betarraga-grisse"
@@ -2686,7 +2686,7 @@
       },
       "fields": {
         "name": {
-          "es": "Betarraga hilo 5kg"
+          "es": "Betarraga hilo x kg"
         },
         "slug": {
           "es": "productos/betarraga-hilo"
@@ -2787,7 +2787,7 @@
       },
       "fields": {
         "name": {
-          "es": "Betarraga rallada 5kg"
+          "es": "Betarraga rallada x kg"
         },
         "slug": {
           "es": "productos/betarraga-rallada"
@@ -2888,7 +2888,7 @@
       },
       "fields": {
         "name": {
-          "es": "Betarraga rodela 5kg"
+          "es": "Betarraga rodela x kg"
         },
         "slug": {
           "es": "productos/betarraga-rodela"
@@ -2989,7 +2989,7 @@
       },
       "fields": {
         "name": {
-          "es": "Camote pelado 5kg"
+          "es": "Camote pelado x kg"
         },
         "slug": {
           "es": "productos/camote-pelado"
@@ -3090,13 +3090,13 @@
       },
       "fields": {
         "name": {
-          "es": "Cebolla pelada 5kg"
+          "es": "Cebolla pelada x kg"
         },
         "slug": {
           "es": "productos/cebolla-pelada"
         },
         "details": {
-          "es": "\n## Cebolla pelada 5kg\n\nIngrediente ideal para tu familia, restaurantes, locales de comida y minimarkets.\n\n\n### ¿Por qué comprar esta Cebolla pelada 5kg con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n\n"
+          "es": "\n## Cebolla pelada x kg\n\nIngrediente ideal para tu familia, restaurantes, locales de comida y minimarkets.\n\n\n### ¿Por qué comprar esta Cebolla pelada x kg con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n\n"
         },
         "image": {
           "es": {
@@ -3191,7 +3191,7 @@
       },
       "fields": {
         "name": {
-          "es": "Cebolla morada pelada 5kg"
+          "es": "Cebolla morada pelada x kg"
         },
         "slug": {
           "es": "productos/cebolla-morada-pelada"
@@ -3292,7 +3292,7 @@
       },
       "fields": {
         "name": {
-          "es": "Cebolla cuadro 5kg"
+          "es": "Cebolla cuadro x kg"
         },
         "slug": {
           "es": "productos/cebolla-cuadro"
@@ -3393,7 +3393,7 @@
       },
       "fields": {
         "name": {
-          "es": "Cebolla pluma 5kg"
+          "es": "Cebolla pluma x kg"
         },
         "slug": {
           "es": "productos/cebolla-pluma"
@@ -3494,7 +3494,7 @@
       },
       "fields": {
         "name": {
-          "es": "Chalota pelada 5kg"
+          "es": "Chalota pelada x kg"
         },
         "slug": {
           "es": "productos/chalota-pelada"
@@ -3595,7 +3595,7 @@
       },
       "fields": {
         "name": {
-          "es": "Corazon de lechuga costina 5kg"
+          "es": "Corazon de lechuga costina x kg"
         },
         "slug": {
           "es": "productos/corazon-de-lechuga-costina"
@@ -3696,7 +3696,7 @@
       },
       "fields": {
         "name": {
-          "es": "Hoja lechuga costina 5kg"
+          "es": "Hoja lechuga costina x kg"
         },
         "slug": {
           "es": "productos/hoja-lechuga-costina"
@@ -3797,7 +3797,7 @@
       },
       "fields": {
         "name": {
-          "es": "Lechuga costina picada 5kg"
+          "es": "Lechuga costina picada x kg"
         },
         "slug": {
           "es": "productos/lechuga-costina-picada"
