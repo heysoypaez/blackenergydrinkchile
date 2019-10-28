@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import StarRatingComponent from "react-star-rating-component"
 import { graphql } from "gatsby"
 
 class IndexPost extends React.Component {
@@ -55,7 +54,7 @@ class IndexPost extends React.Component {
               >
               {    console.log(items.node) }
                 <div className="details_List">
-                  <Link to={`/${items.node.name}`}>
+                  <Link to={`/${items.node.slug}`}>
                     {items.node.image === null ? (
                       <div className="no-image">No Image</div>
                     ) : (
@@ -65,7 +64,7 @@ class IndexPost extends React.Component {
 
                   <div className="details_inner">
                     <h2>
-                      <Link to={`/${items.node.name}`}>{items.node.name}</Link>
+                      <Link to={`/${items.node.slug}`}>{items.node.name}</Link>
                     </h2>
                     <div className="row">
 
@@ -116,6 +115,7 @@ export const query = graphql`
       edges {
         node {
           name
+          slug
           image {
             fixed(width: 1000, height: 500) {
               width

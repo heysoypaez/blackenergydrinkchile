@@ -9,6 +9,70 @@ import Countdown from "../components/countdown"
 import StarRatingComponent from "react-star-rating-component"
 import { graphql } from "gatsby"
 
+class CategoriesPost extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      contactPhone: "56946599356"
+    }
+  }
+
+  render() {
+    const { data } = this.props
+    const { contactPhone } = this.state
+
+    return (
+      <Fragment>
+        <div className="row product-main">
+          {data.data.allContentfulProductCategories.edges.map(items => (
+            <div
+              className="Catalogue__item col-sm-12 col-md-6 col-lg-4"
+              key={items.node.id}
+            >
+              <div className="details_List">
+                {items.node.image === null ? (
+                  <div className="no-image">No Image</div>
+                ) : (
+                  <Img sizes={items.node.image.fluid} />
+                )}
+
+                <div className="details_inner">
+                  <h2>
+                    <Link to={`/${items.node.slug}`}>{items.node.name}</Link>
+                  </h2>
+                  
+                  <div className="row">
+
+                    <div className="col-sm-12 text-right align-self-center">
+                      <a                      
+                        href={`https://wa.me/${contactPhone}`}
+                        className="Product snipcart-add-item"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        data-item-id={items.node.slug}
+                        data-item-image={
+                          items.node.image === null
+                            ? ""
+                            : items.node.image.fluid.src
+                        }
+                        data-item-name={items.node.name}
+                        data-item-url={`/`}
+                      >
+                        <i className="fas fa-shopping-bag" />
+                        Consulta a ventas
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </Fragment>
+    )
+  }
+}
+
 class IndexPost extends React.Component {
   constructor(props) {
     super(props)
@@ -88,6 +152,12 @@ const IndexPage = data => (
         <h2 className="with-underline">Productos relevantes</h2>
       </div>
       <IndexPost data={data} />
+    </div>
+    <div className="container">
+      <div className="text-center">
+        <h2 className="with-underline">Categorias de interés</h2>
+      </div>
+      <CategoriesPost data={data} />
     </div>
     <LatestBlogs data={data.data.allContentfulBlogs} />
     <div className="container">
@@ -188,6 +258,27 @@ export const query = graphql`
               sizes
             }
           }
+        }
+      }
+    }
+    allContentfulProductCategories {
+      edges {
+        node {
+          name
+          slug
+          id
+          image {
+            fluid(maxWidth: 1000) {
+              base64
+              aspectRatio
+              src
+              srcSet
+              srcWebp
+              srcSetWebp
+              sizes
+            }
+          }
+
         }
       }
     }
