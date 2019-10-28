@@ -6,6 +6,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return new Promise((resolve, reject) => {
     const StoreTemplate = path.resolve("src/templates/details.js")
     const BlogTemplate = path.resolve("src/templates/blogDetails.js")
+    const ProductCategoryTemplate = path.resolve("src/templates/productCategories.js")
     resolve(
       graphql(`
         {
@@ -26,6 +27,15 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             }
           }
         }
+        allContentfulProductCategories {
+          edges {
+            node {
+              id
+              slug
+            }
+          }
+        }
+      }
       `).then(result => {
         if (result.errors) {
           reject(result.errors)
@@ -34,6 +44,15 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           createPage({
             path: edge.node.slug,
             component: StoreTemplate,
+            context: {
+              slug: edge.node.slug,
+            },
+          })
+        })
+        result.data.allContentfulProductCategories.edges.forEach(edge => {
+          createPage({
+            path: edge.node.slug,
+            component: ProductCategoryTemplate,
             context: {
               slug: edge.node.slug,
             },

@@ -1,4 +1,4 @@
-import React from "react"
+import React, {Fragment} from "react"
 import { Link } from "gatsby"
 import Img from "gatsby-image"
 import Layout from "../components/layout"
@@ -13,7 +13,7 @@ class IndexPost extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      contactPhone: "56959435437"
+      contactPhone: "56946599356"
     }
   }
 
@@ -22,7 +22,7 @@ class IndexPost extends React.Component {
     const { contactPhone } = this.state
 
     return (
-      <React.Fragment>
+      <Fragment>
         <div className="row product-main">
           {data.data.allContentfulProduct.edges.map(items => (
             <div
@@ -47,10 +47,8 @@ class IndexPost extends React.Component {
                   />
                   
                   <div className="row">
-                    <div className="col-sm-5 align-self-center">
-                      <span className="price">${items.node.price}</span>
-                    </div>
-                    <div className="col-sm-7 text-right align-self-center">
+
+                    <div className="col-sm-12 text-right align-self-center">
                       <a                      
                         href={`https://wa.me/${contactPhone}`}
                         className="Product snipcart-add-item"
@@ -76,7 +74,7 @@ class IndexPost extends React.Component {
             </div>
           ))}
         </div>
-      </React.Fragment>
+      </Fragment>
     )
   }
 }
