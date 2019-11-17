@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import StarRatingComponent from "react-star-rating-component"
 import { graphql } from "gatsby"
 
 class IndexPost extends React.Component {
@@ -11,7 +10,7 @@ class IndexPost extends React.Component {
     super(props)
     this.state = {
       NoOfPost: 6,
-      contactPhone: "56959435437"
+      contactPhone: "56946599356"
     }
     this.handleScroll = this.handleScroll.bind(this)
   }
@@ -46,7 +45,7 @@ class IndexPost extends React.Component {
     return (
       <React.Fragment>
         <div className="row product-main" onScroll={this.handleScroll}>
-          {data.data.allContentfulProduct.edges
+          {data.data.allContentfulProductCategories.edges
             .slice(0, NoOfPost)
             .map(items => (
               <div
@@ -67,24 +66,14 @@ class IndexPost extends React.Component {
                     <h2>
                       <Link to={`/${items.node.slug}`}>{items.node.name}</Link>
                     </h2>
-                    <StarRatingComponent
-                      name="rate1"
-                      starCount={5}
-                      value={items.node.rating}
-                    />
-                    <p>{items.node.details.childMarkdownRemark.excerpt}</p>
                     <div className="row">
-                      <div className="col-sm-4 align-self-center">
-                        <span className="price">${items.node.price}</span>
-                      </div>
-                      <div className="col-sm-8 text-right align-self-center">
+
+                      <div className="col-sm-12 text-right align-self-center">
                         <a
                           href={`https://wa.me/${this.state.contactPhone}`}
                           className="Product snipcart-add-item"
                           target="_blank"
                            rel="noopener noreferrer"
-                          data-item-id={items.node.slug}
-                          data-item-price={items.node.price}
                           data-item-image={
                             items.node.image === null
                               ? ""
@@ -122,13 +111,11 @@ export default IndexPage
 
 export const query = graphql`
   query StoreQuery {
-    allContentfulProduct {
+    allContentfulProductCategories {
       edges {
         node {
-          id
           name
           slug
-          rating
           image {
             fixed(width: 1000, height: 500) {
               width
@@ -137,14 +124,7 @@ export const query = graphql`
               srcSet
             }
           }
-          price
-          details {
-            childMarkdownRemark {
-              excerpt(pruneLength: 140)
-            }
-          }
         }
       }
     }
-  }
-`
+  }`

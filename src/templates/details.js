@@ -5,7 +5,7 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { graphql } from "gatsby";
 
-const contactPhone = "56959435437";
+const contactPhone = "56946599356";
 
 const ProductDetails = data => (
   <Layout>
@@ -46,11 +46,11 @@ const ProductDetails = data => (
           value={data.data.contentfulProduct.rating}
         />
         <div className="row buynowinner">
-          <div className="col-sm-2">
+{/*          <div className="col-sm-2">
             <span className="price">
               Precio: ${data.data.contentfulProduct.price}
             </span>
-          </div>
+          </div>*/}
           <div className="col-sm-10 text-left">
             <a
               href={`https://wa.me/${contactPhone}`}
