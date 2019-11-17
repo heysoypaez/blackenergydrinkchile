@@ -68,12 +68,11 @@ const ProductCategory = data => (
     </Fragment>
   </Layout>
 )
-
-export default ProductCategory
+export default ProductCategory;
 
 export const query = graphql`
   query ProductCategoryQuery($slug: String!) {
-    allContentfulProduct(limit: 180, sort: { fields: name, order: ASC }) {
+    allContentfulProduct(filter: {category: {slug: {eq: $slug}}}, sort: { fields: name, order: ASC }) {
       edges {
         node {
           id
@@ -93,11 +92,6 @@ export const query = graphql`
           }
         }
       }
-    }
-    contentfulProductCategories(slug: { eq: $slug }) {
-       id
-       slug
-       name
     }
   }
 `

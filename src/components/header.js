@@ -79,7 +79,6 @@ const Header = ({ siteTitle }) => (
           <nav>
             <ul className="navbar-nav mr-auto Header__product-categories__menu">
                 {
-
                   data.allContentfulProductCategories.edges.map(( {node: {name, slug} }, index) => (
                   <li className="nav-item" key={index}>
                     <Link className="nav-link" to={`/${slug}`}>
