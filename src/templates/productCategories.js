@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 import StarRatingComponent from "react-star-rating-component"
 import { graphql } from "gatsby"
 
-const contactPhone = "56946599356";
+const contactPhone = "56979260701";
 
 const ProductCategory = data => (
   <Layout>

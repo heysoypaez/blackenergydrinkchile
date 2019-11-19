@@ -4,7 +4,6 @@ import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Banner from "../components/banner"
-import LatestBlogs from "../components/latestBlog"
 import Countdown from "../components/countdown"
 import StarRatingComponent from "react-star-rating-component"
 import { graphql } from "gatsby"
@@ -13,9 +12,10 @@ class CategoriesPost extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      contactPhone: "56946599356"
+      contactPhone: "56979260701"
     }
   }
+
 
   render() {
     const { data } = this.props
@@ -77,7 +77,7 @@ class IndexPost extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      contactPhone: "56946599356"
+      contactPhone: "56979260701"
     }
   }
 
@@ -159,7 +159,6 @@ const IndexPage = data => (
       </div>
       <CategoriesPost data={data} />
     </div>
-    <LatestBlogs data={data.data.allContentfulBlogs} />
     <div className="container">
       <div className="text-center">
         <h2 className="with-underline">¿Quieres recibir productos en la puerta de tu local?</h2>
@@ -241,26 +240,7 @@ export const query = graphql`
       }
       date(formatString: "D MMMM, YYYY")
     }
-    allContentfulBlogs(limit: 3, sort: { fields: createdAt, order: DESC }) {
-      edges {
-        node {
-          id
-          title
-          slug
-          featureImage {
-            fluid(maxWidth: 1120) {
-              base64
-              aspectRatio
-              src
-              srcSet
-              srcWebp
-              srcSetWebp
-              sizes
-            }
-          }
-        }
-      }
-    }
+
     allContentfulProductCategories {
       edges {
         node {
@@ -284,3 +264,26 @@ export const query = graphql`
     }
   }
 `
+//    <LatestBlogs data={data.data.allContentfulBlogs} />
+/*
+    allContentfulBlogs(limit: 3, sort: { fields: createdAt, order: DESC }) {
+      edges {
+        node {
+          id
+          title
+          slug
+          featureImage {
+            fluid(maxWidth: 1120) {
+              base64
+              aspectRatio
+              src
+              srcSet
+              srcWebp
+              srcSetWebp
+              sizes
+            }
+          }
+        }
+      }
+    }
+*/

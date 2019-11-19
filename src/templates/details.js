@@ -5,7 +5,7 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { graphql } from "gatsby";
 
-const contactPhone = "56946599356";
+const contactPhone = "56979260701";
 
 const ProductDetails = data => (
   <Layout>

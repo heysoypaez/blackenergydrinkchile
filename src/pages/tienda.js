@@ -10,7 +10,7 @@ class IndexPost extends React.Component {
     super(props)
     this.state = {
       NoOfPost: 6,
-      contactPhone: "56946599356"
+      contactPhone: "56979260701"
     }
     this.handleScroll = this.handleScroll.bind(this)
   }
