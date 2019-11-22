@@ -1692,7 +1692,7 @@
         "id": "3FcDvWvIHXETWXBm855COf",
         "type": "Entry",
         "createdAt": "2019-10-18T01:58:04.528Z",
-        "updatedAt": "2019-11-17T02:32:39.086Z",
+        "updatedAt": "2019-11-22T18:02:12.600Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1700,8 +1700,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 21,
-        "publishedAt": "2019-11-17T02:32:39.086Z",
+        "publishedVersion": 44,
+        "publishedAt": "2019-11-22T18:02:12.600Z",
         "firstPublishedAt": "2019-10-18T01:58:41.403Z",
         "createdBy": {
           "sys": {
@@ -1717,8 +1717,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 5,
-        "version": 22,
+        "publishedCounter": 6,
+        "version": 45,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1736,7 +1736,7 @@
       },
       "fields": {
         "name": {
-          "es": "Cajas"
+          "es": "Canastas"
         },
         "image": {
           "es": {
@@ -1748,7 +1748,7 @@
           }
         },
         "slug": {
-          "es": "cajas"
+          "es": "canastas"
         }
       }
     },
@@ -4252,7 +4252,7 @@
         "id": "2rKBySFx6bUhO3fnmXplSY",
         "type": "Entry",
         "createdAt": "2019-10-28T03:49:50.143Z",
-        "updatedAt": "2019-11-17T02:32:17.378Z",
+        "updatedAt": "2019-11-22T18:10:09.267Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4260,8 +4260,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2019-11-17T02:32:17.378Z",
+        "publishedVersion": 61,
+        "publishedAt": "2019-11-22T18:10:09.267Z",
         "firstPublishedAt": "2019-10-28T03:52:45.046Z",
         "createdBy": {
           "sys": {
@@ -4277,8 +4277,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 10,
+        "publishedCounter": 6,
+        "version": 62,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4296,13 +4296,13 @@
       },
       "fields": {
         "name": {
-          "es": "caja m"
+          "es": "Canasta familiar 1: Pequeña"
         },
         "slug": {
-          "es": "productos/caja-m"
+          "es": "productos/canasta-familiar-pequeña"
         },
         "details": {
-          "es": "## caja-m\n\nIngrediente ideal para tu familia, restaurantes, locales de comida y minimarkets.\n\n\n### ¿Por qué comprar esta Acelga de hoja limpia con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n"
+          "es": "## Canasta familiar pequeña\n\nIdeal para tu familia.\n\n\n### ¿Por qué comprar esta Canasta familiar pequeña con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n"
         },
         "image": {
           "es": {
@@ -8762,7 +8762,7 @@
         "id": "1z1cxNcisZiaVHgkMe418P",
         "type": "Entry",
         "createdAt": "2019-10-28T03:50:02.352Z",
-        "updatedAt": "2019-11-17T02:31:42.590Z",
+        "updatedAt": "2019-11-22T18:10:44.637Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -8770,8 +8770,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2019-11-17T02:31:42.590Z",
+        "publishedVersion": 46,
+        "publishedAt": "2019-11-22T18:10:44.637Z",
         "firstPublishedAt": "2019-10-28T03:52:33.667Z",
         "createdBy": {
           "sys": {
@@ -8787,8 +8787,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 10,
+        "publishedCounter": 6,
+        "version": 47,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -8806,13 +8806,13 @@
       },
       "fields": {
         "name": {
-          "es": "caja xl"
+          "es": "Canasta familiar 4: Extra Grande"
         },
         "slug": {
-          "es": "productos/caja-xl"
+          "es": "productos/canasta-familiar-extra-grande"
         },
         "details": {
-          "es": "## caja-xl\n\nIngrediente ideal para tu familia, restaurantes, locales de comida y minimarkets.\n\n\n### ¿Por qué comprar esta Acelga de hoja limpia con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n"
+          "es": "## Canasta familiar Extra Grande\n\nIngrediente ideal para tu familia, restaurantes, locales de comida y minimarkets.\n\n\n### ¿Por qué comprar esta Canasta familiar Extra Grande con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n"
         },
         "image": {
           "es": {
@@ -11512,7 +11512,7 @@
         "id": "5YiVb1ubfX4HVzLdObrBAd",
         "type": "Entry",
         "createdAt": "2019-10-28T03:50:07.507Z",
-        "updatedAt": "2019-11-17T02:31:21.911Z",
+        "updatedAt": "2019-11-22T18:10:35.226Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -11520,8 +11520,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2019-11-17T02:31:21.911Z",
+        "publishedVersion": 69,
+        "publishedAt": "2019-11-22T18:10:35.226Z",
         "firstPublishedAt": "2019-10-28T03:52:30.240Z",
         "createdBy": {
           "sys": {
@@ -11537,8 +11537,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 10,
+        "publishedCounter": 6,
+        "version": 70,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -11556,13 +11556,13 @@
       },
       "fields": {
         "name": {
-          "es": "caja s"
+          "es": "Canasta familiar 3: Grande"
         },
         "slug": {
-          "es": "productos/caja-s"
+          "es": "productos/canasta-familiar-grande"
         },
         "details": {
-          "es": "## caja-s\n\nIngrediente ideal para tu familia, restaurantes, locales de comida y minimarkets.\n\n\n### ¿Por qué comprar esta Acelga de hoja limpia con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n"
+          "es": "## Canasta familiar grande\n\nIngrediente ideal para tu familia, restaurantes, locales de comida y minimarkets.\n\n\n### ¿Por qué comprar esta Canasta familiar grande con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n"
         },
         "image": {
           "es": {
@@ -16682,7 +16682,7 @@
         "id": "7zac6Koh7Or1URsVhHRftc",
         "type": "Entry",
         "createdAt": "2019-10-28T03:50:15.351Z",
-        "updatedAt": "2019-11-17T02:30:41.147Z",
+        "updatedAt": "2019-11-22T18:10:20.918Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -16690,8 +16690,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2019-11-17T02:30:41.147Z",
+        "publishedVersion": 55,
+        "publishedAt": "2019-11-22T18:10:20.918Z",
         "firstPublishedAt": "2019-10-28T03:51:59.512Z",
         "createdBy": {
           "sys": {
@@ -16707,8 +16707,8 @@
             "id": "6gIufn5DZc7ZCG6oGMWdHK"
           }
         },
-        "publishedCounter": 4,
-        "version": 10,
+        "publishedCounter": 6,
+        "version": 56,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -16726,13 +16726,13 @@
       },
       "fields": {
         "name": {
-          "es": "caja l"
+          "es": "Canasta familiar 2: Mediana"
         },
         "slug": {
-          "es": "productos/caja-l"
+          "es": "productos/canasta-familiar-mediana"
         },
         "details": {
-          "es": "## caja-l\n\nIngrediente ideal para tu familia, restaurantes, locales de comida y minimarkets.\n\n\n### ¿Por qué comprar esta Acelga de hoja limpia con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n"
+          "es": "## Canasta familiar mediana\n\nIngrediente ideal para tu familia.\n\n\n### ¿Por qué comprar esta Canasta familiar mediana con nosotros?\n\nComodidad + Economía = Mercado Food\n\nPorque te ofrecemos precios mejores que los de la Vega en la comodidad de tu domicilio.\n\nRecuerda que hacemos envíos a todo Chile y dentro de Santiago.\n\n### ¿Por qué lo tenemos en nuestra tienda?\n\n¡Porque sabemos que es parte de tu mercado!\n\n_Agregalo al carrito y hazlo parte de tu pedido._\n\n### ¿Dudas?\n\nEscribenos al Whatsapp, sientete libre de dejarnos caer tus inquietudes.\n"
         },
         "image": {
           "es": {
