@@ -10,11 +10,14 @@ const contactPhone = "56979260701";
 
 const ProductCategory = data => (
   <Layout>
-    <SEO
-      title={`categoria`}
-      keywords={[`gatsby`, `application`, `react`]}
-    />
     <Fragment>
+    {data.data.allContentfulProductCategories.edges.map(item => (
+      <SEO
+        title={item.node.name}
+        keywords={[`${item.node.name}`,`gatsby`, `application`, `react`]}
+      />
+    ))}
+
       <div className="row product-main  col-sm-12 center">
         {data.data.allContentfulProduct.edges.map(items => (
           <div
@@ -90,6 +93,13 @@ export const query = graphql`
               sizes
             }
           }
+        }
+      }
+    }
+    allContentfulProductCategories(filter: {slug: {eq: $slug}}) {
+      edges {
+        node {
+          name
         }
       }
     }
