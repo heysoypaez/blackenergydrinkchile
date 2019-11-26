@@ -17,6 +17,9 @@ class About extends React.Component {
                 <h1 id="queesmercadofood">¿Que es Mercado Food?</h1>
 
                 <p>
+                Somos Tres generaciones entregandote salud,vida,energia,en los mejores alimentos de tu vida personal y saludables para tus hijos y nuevas generaciones.
+                </p>
+                <p>
                   En palabras de mortales, somos un proveedor brillante de
                   insumos alimenticios perecibles y no perecibles para locales,
                   restaurantes, eventos y familias.
@@ -35,7 +38,7 @@ class About extends React.Component {
                 <h2 id="elequipo">El Equipo.</h2>
                   <p>
                     Mercado Food es la sinergia a tu servicio de personas que
-                    conocen el mercado de La vega como la palma de su mano de
+                    conocen los mercado locales de frutas y verduras como la palma de su mano de
                     generaciones desde muy niño, de la tecnologia web que hace
                     posible este sitio donde estás, de personas deseando encontrar
                     nuestro producto que más cubre tus necesidades.
